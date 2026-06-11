@@ -1,0 +1,89 @@
+Apr 10 08:10:01 server1 sshd[1001]: Failed password for invalid user admin from 192.168.1.10 port 50001 ssh2
+
+Apr 10 08:10:05 server1 sshd[1002]: Failed password for root from 192.168.1.10 port 50002 ssh2
+
+Apr 10 08:10:10 server1 sshd[1003]: Failed password for invalid user guest from 192.168.1.10 port 50003 ssh2
+
+Apr 10 08:10:15 server1 sshd[1004]: Failed password for root from 192.168.1.10 port 50004 ssh2
+
+Apr 10 08:10:20 server1 sshd[1005]: Failed password for invalid user test from 192.168.1.10 port 50005 ssh2
+
+Apr 10 08:10:25 server1 sshd[1006]: Failed password for invalid user oracle from 192.168.1.10 port 50006 ssh2
+
+Apr 10 08:11:01 server1 sshd[1007]: Failed password for root from 10.0.0.5 port 50101 ssh2
+
+Apr 10 08:11:05 server1 sshd[1008]: Failed password for invalid user admin from 10.0.0.5 port 50102 ssh2
+
+Apr 10 08:11:10 server1 sshd[1009]: Failed password for invalid user backup from 10.0.0.5 port 50103 ssh2
+
+Apr 10 08:11:15 server1 sshd[1010]: Failed password for root from 10.0.0.5 port 50104 ssh2
+
+Apr 10 08:11:20 server1 sshd[1011]: Failed password for invalid user mysql from 10.0.0.5 port 50105 ssh2
+
+Apr 10 08:12:01 server1 sshd[1012]: Failed password for root from 172.16.0.12 port 50201 ssh2
+
+Apr 10 08:12:05 server1 sshd[1013]: Failed password for invalid user admin from 172.16.0.12 port 50202 ssh2
+
+Apr 10 08:12:10 server1 sshd[1014]: Failed password for invalid user test from 172.16.0.12 port 50203 ssh2
+
+Apr 10 08:12:15 server1 sshd[1015]: Failed password for root from 172.16.0.12 port 50204 ssh2
+
+Apr 10 08:12:20 server1 sshd[1016]: Failed password for invalid user guest from 172.16.0.12 port 50205 ssh2
+
+Apr 10 08:13:01 server1 sshd[1017]: Failed password for root from 8.8.8.8 port 50301 ssh2
+
+Apr 10 08:13:05 server1 sshd[1018]: Failed password for invalid user support from 8.8.8.8 port 50302 ssh2
+
+Apr 10 08:13:10 server1 sshd[1019]: Failed password for invalid user admin from 8.8.8.8 port 50303 ssh2
+
+Apr 10 08:14:01 server1 sshd[1020]: Failed password for root from 203.0.113.45 port 50401 ssh2
+
+Apr 10 08:14:05 server1 sshd[1021]: Failed password for invalid user web from 203.0.113.45 port 50402 ssh2
+
+Apr 10 08:15:01 server1 sshd[1022]: Failed password for root from 2001:db8::1 port 50501 ssh2
+
+Apr 10 08:15:05 server1 sshd[1023]: Failed password for invalid user admin from 2001:db8::1 port 50502 ssh2
+
+Apr 10 08:15:10 server1 sshd[1024]: Failed password for invalid user test from 2001:db8::1 port 50503 ssh2
+
+Apr 10 08:15:15 server1 sshd[1025]: Failed password for root from 2001:db8::1 port 50504 ssh2
+
+Apr 10 08:16:01 server1 sshd[1026]: Failed password for root from 2001:db8:85a3::8a2e:370:7334 port 50601 ssh2
+
+Apr 10 08:16:05 server1 sshd[1027]: Failed password for invalid user backup from 2001:db8:85a3::8a2e:370:7334 port 50602 ssh2
+
+Apr 10 08:16:10 server1 sshd[1028]: Failed password for invalid user guest from 2001:db8:85a3::8a2e:370:7334 port 50603 ssh2
+
+Apr 10 08:17:01 server1 sshd[1029]: Failed password for root from fe80::1ff:fe23:4567:890a port 50701 ssh2
+
+Apr 10 08:17:05 server1 sshd[1030]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 50702 ssh2
+
+Apr 10 08:17:10 server1 sshd[1031]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 50703 ssh2
+
+Apr 10 08:18:01 server1 sshd[1032]: Failed password for root from ::1 port 50801 ssh2
+
+Apr 10 08:18:05 server1 sshd[1033]: Failed password for invalid user guest from ::1 port 50802 ssh2
+
+Apr 10 08:19:01 server1 sshd[1034]: Failed password for root from fd12:3456:789a:1::1 port 50901 ssh2
+
+Apr 10 08:19:05 server1 sshd[1035]: Failed password for invalid user oracle from fd12:3456:789a:1::1 port 50902 ssh2
+
+Apr 10 08:20:01 server1 sshd[1036]: Failed password for root from fc00::1234 port 51001 ssh2
+
+Apr 10 08:20:05 server1 sshd[1037]: Failed password for invalid user mysql from fc00::1234 port 51002 ssh2
+
+Apr 10 08:21:01 server1 sshd[1038]: Failed password for invalid user apache from 2606:4700:4700::1111 port 51101 ssh2
+
+Apr 10 08:21:05 server1 sshd[1039]: Failed password for root from 2606:4700:4700::1111 port 51102 ssh2
+
+Apr 10 08:22:01 server1 sshd[1040]: Failed password for invalid user dev from 2001:4860:4860::8888 port 51201 ssh2
+
+Apr 10 08:22:05 server1 sshd[1041]: Failed password for root from 2001:4860:4860::8888 port 51202 ssh2
+
+Apr 10 08:23:01 server1 sshd[1042]: Failed password for invalid user qa from ::ffff:192.0.2.128 port 51301 ssh2
+
+Apr 10 08:23:05 server1 sshd[1043]: Failed password for root from ::ffff:192.0.2.128 port 51302 ssh2
+
+Apr 10 08:24:01 server1 sshd[1044]: Accepted password for user1 from 192.168.1.50 port 51401 ssh2
+
+Apr 10 08:24:05 server1 sshd[1045]: Accepted password for analyst from 2001:db8::99 port 51402 ssh2

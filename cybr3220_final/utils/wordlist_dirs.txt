@@ -1,0 +1,27 @@
+# Common web directories for brute forcing
+admin
+login
+dashboard
+api
+uploads
+backup
+config
+test
+dev
+staging
+wp-admin
+wp-content
+images
+static
+assets
+js
+css
+includes
+lib
+src
+old
+temp
+tmp
+files
+data
+logs

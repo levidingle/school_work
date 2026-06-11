@@ -1,0 +1,10 @@
+Apr 10 08:15:01 server1 sshd[1024]: Failed password for invalid user admin from 192.168.1.10 port 54321 ssh2
+Apr 10 08:15:10 server1 sshd[1025]: Failed password for root from 192.168.1.10 port 54322 ssh2
+Apr 10 08:15:25 server1 sshd[1026]: Failed password for invalid user test from 192.168.1.10 port 54323 ssh2
+Apr 10 08:15:40 server1 sshd[1027]: Failed password for root from 192.168.1.10 port 54324 ssh2
+Apr 10 08:15:55 server1 sshd[1028]: Failed password for invalid user guest from 192.168.1.10 port 54325 ssh2
+Apr 10 08:16:10 server1 sshd[1029]: Failed password for root from 2001:db8:85a3::8a2e:370:7334 port 54400 ssh2
+Apr 10 08:16:20 server1 sshd[1030]: Failed password for invalid user backup from 2001:db8:85a3::8a2e:370:7334 port 54401 ssh2
+Apr 10 08:16:35 server1 sshd[1031]: Failed password for root from fe80::1ff:fe23:4567:890a port 54402 ssh2
+Apr 10 08:16:50 server1 sshd[1032]: Accepted password for user1 from 10.0.0.5 port 54403 ssh2
+Apr 10 08:17:05 server1 sshd[1033]: Failed password for invalid user oracle from fe80::1ff:fe23:4567:890a port 54404 ssh2

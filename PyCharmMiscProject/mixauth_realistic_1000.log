@@ -1,0 +1,1003 @@
+Apr 10 08:00:00 server1 sshd[1000]: Failed password for root from 192.168.1.10 port 60952 ssh2
+Apr 10 08:00:02 server1 sshd[1001]: Failed password for invalid user admin from 192.168.1.10 port 64299 ssh2
+Apr 10 08:00:04 server1 sshd[1002]: Failed password for invalid user guest from 192.168.1.10 port 49012 ssh2
+Apr 10 08:00:06 server1 sshd[1003]: Failed password for invalid user oracle from 192.168.1.10 port 48024 ssh2
+Apr 10 08:00:08 server1 sshd[1004]: Failed password for invalid user test from 192.168.1.10 port 47314 ssh2
+Apr 10 08:00:25 server1 sshd[1005]: Failed password for invalid user root from 10.0.0.5 port 44572 ssh2
+Apr 10 08:00:27 server1 sshd[1006]: Failed password for invalid user admin from 10.0.0.5 port 62174 ssh2
+Apr 10 08:00:29 server1 sshd[1007]: Failed password for invalid user backup from 10.0.0.5 port 64270 ssh2
+Apr 10 08:00:31 server1 sshd[1008]: Failed password for invalid user mysql from 10.0.0.5 port 57870 ssh2
+Apr 10 08:00:33 server1 sshd[1009]: Failed password for invalid user guest from 10.0.0.5 port 42848 ssh2
+Apr 10 08:00:33 server1 sshd[1009]: Failed password for invalid user guest from 10.0.0.5 port 42848 ssh2
+Apr 10 08:00:33 server1 sshd[1009]: Failed password for invalid user guest from 10.0.0.5 port 42848 ssh2
+Apr 10 08:00:33 server1 sshd[1009]: Failed password for invalid user guest from 10.0.0.5 port 42848 ssh2
+Apr 10 08:00:50 server1 sshd[1010]: Failed password for invalid user root from 2001:db8::1 port 59349 ssh2
+Apr 10 08:00:52 server1 sshd[1011]: Failed password for invalid user admin from 2001:db8::1 port 40976 ssh2
+Apr 10 08:00:54 server1 sshd[1012]: Failed password for invalid user test from 2001:db8::1 port 43070 ssh2
+Apr 10 08:00:56 server1 sshd[1013]: Failed password for invalid user deploy from 2001:db8::1 port 47164 ssh2
+Apr 10 08:00:58 server1 sshd[1014]: Failed password for invalid user qa from 2001:db8::1 port 47623 ssh2
+Apr 10 08:01:15 server1 sshd[1015]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 56559 ssh2
+Apr 10 08:01:17 server1 sshd[1016]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 58390 ssh2
+Apr 10 08:01:19 server1 sshd[1017]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 46515 ssh2
+Apr 10 08:01:21 server1 sshd[1018]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 63462 ssh2
+Apr 10 08:01:23 server1 sshd[1019]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 61295 ssh2
+Apr 10 08:01:40 server1 sshd[1020]: Failed password for invalid user root from 203.0.113.45 port 62981 ssh2
+Apr 10 08:01:42 server1 sshd[1021]: Failed password for invalid user oracle from 203.0.113.45 port 47223 ssh2
+Apr 10 08:01:44 server1 sshd[1022]: Failed password for invalid user postgres from 203.0.113.45 port 54719 ssh2
+Apr 10 08:01:46 server1 sshd[1023]: Failed password for invalid user ftp from 203.0.113.45 port 59309 ssh2
+Apr 10 08:01:48 server1 sshd[1024]: Failed password for invalid user ubuntu from 203.0.113.45 port 49115 ssh2
+Apr 10 08:02:05 server1 sshd[1025]: Failed password for invalid user root from fd12:3456:789a:1::1 port 40212 ssh2
+Apr 10 08:02:07 server1 sshd[1026]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 45231 ssh2
+Apr 10 08:02:09 server1 sshd[1027]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 62876 ssh2
+Apr 10 08:02:11 server1 sshd[1028]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 53848 ssh2
+Apr 10 08:02:13 server1 sshd[1029]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 51149 ssh2
+Apr 10 08:02:30 server1 sshd[1030]: Failed password for root from 192.168.1.10 port 49105 ssh2
+Apr 10 08:02:32 server1 sshd[1031]: Failed password for invalid user admin from 192.168.1.10 port 51029 ssh2
+Apr 10 08:02:34 server1 sshd[1032]: Failed password for invalid user guest from 192.168.1.10 port 43349 ssh2
+Apr 10 08:02:36 server1 sshd[1033]: Failed password for invalid user oracle from 192.168.1.10 port 43039 ssh2
+Apr 10 08:02:38 server1 sshd[1034]: Failed password for invalid user test from 192.168.1.10 port 52449 ssh2
+Apr 10 08:02:55 server1 sshd[1035]: Failed password for invalid user root from 10.0.0.5 port 43169 ssh2
+Apr 10 08:02:57 server1 sshd[1036]: Failed password for invalid user admin from 10.0.0.5 port 51270 ssh2
+Apr 10 08:02:59 server1 sshd[1037]: Failed password for invalid user backup from 10.0.0.5 port 59782 ssh2
+Apr 10 08:03:01 server1 sshd[1038]: Failed password for invalid user mysql from 10.0.0.5 port 48667 ssh2
+Apr 10 08:03:03 server1 sshd[1039]: Failed password for invalid user guest from 10.0.0.5 port 41423 ssh2
+Apr 10 08:03:20 server1 sshd[1040]: Failed password for invalid user root from 2001:db8::1 port 63911 ssh2
+Apr 10 08:03:22 server1 sshd[1041]: Failed password for invalid user admin from 2001:db8::1 port 44090 ssh2
+Apr 10 08:03:24 server1 sshd[1042]: Failed password for invalid user test from 2001:db8::1 port 52403 ssh2
+Apr 10 08:03:26 server1 sshd[1043]: Failed password for invalid user deploy from 2001:db8::1 port 42582 ssh2
+Apr 10 08:03:28 server1 sshd[1044]: Failed password for invalid user qa from 2001:db8::1 port 58089 ssh2
+Apr 10 08:03:45 server1 sshd[1045]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 49606 ssh2
+Apr 10 08:03:47 server1 sshd[1046]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 60267 ssh2
+Apr 10 08:03:49 server1 sshd[1047]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 51850 ssh2
+Apr 10 08:03:51 server1 sshd[1048]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 58918 ssh2
+Apr 10 08:03:53 server1 sshd[1049]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 46300 ssh2
+Apr 10 08:04:10 server1 sshd[1050]: Failed password for root from 203.0.113.45 port 63087 ssh2
+Apr 10 08:04:12 server1 sshd[1051]: Failed password for invalid user oracle from 203.0.113.45 port 61668 ssh2
+Apr 10 08:04:14 server1 sshd[1052]: Failed password for invalid user postgres from 203.0.113.45 port 47467 ssh2
+Apr 10 08:04:16 server1 sshd[1053]: Failed password for invalid user ftp from 203.0.113.45 port 49482 ssh2
+Apr 10 08:04:18 server1 sshd[1054]: Failed password for invalid user ubuntu from 203.0.113.45 port 42614 ssh2
+Apr 10 08:04:35 server1 sshd[1055]: Failed password for invalid user root from fd12:3456:789a:1::1 port 47628 ssh2
+Apr 10 08:04:37 server1 sshd[1056]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 52455 ssh2
+Apr 10 08:04:39 server1 sshd[1057]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 49108 ssh2
+Apr 10 08:04:41 server1 sshd[1058]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 54857 ssh2
+Apr 10 08:04:43 server1 sshd[1059]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 60830 ssh2
+Apr 10 08:05:00 server1 sshd[1060]: Failed password for root from 192.168.1.10 port 51954 ssh2
+Apr 10 08:05:02 server1 sshd[1061]: Failed password for invalid user admin from 192.168.1.10 port 51641 ssh2
+Apr 10 08:05:04 server1 sshd[1062]: Failed password for invalid user guest from 192.168.1.10 port 46865 ssh2
+Apr 10 08:05:06 server1 sshd[1063]: Failed password for invalid user oracle from 192.168.1.10 port 61960 ssh2
+Apr 10 08:05:08 server1 sshd[1064]: Failed password for invalid user test from 192.168.1.10 port 48748 ssh2
+Apr 10 08:05:25 server1 sshd[1065]: Failed password for invalid user root from 10.0.0.5 port 62997 ssh2
+Apr 10 08:05:27 server1 sshd[1066]: Failed password for invalid user admin from 10.0.0.5 port 61234 ssh2
+Apr 10 08:05:29 server1 sshd[1067]: Failed password for invalid user backup from 10.0.0.5 port 42339 ssh2
+Apr 10 08:05:31 server1 sshd[1068]: Failed password for invalid user mysql from 10.0.0.5 port 59960 ssh2
+Apr 10 08:05:33 server1 sshd[1069]: Failed password for invalid user guest from 10.0.0.5 port 60806 ssh2
+Apr 10 08:05:50 server1 sshd[1070]: Failed password for invalid user root from 2001:db8::1 port 45607 ssh2
+Apr 10 08:05:52 server1 sshd[1071]: Failed password for invalid user admin from 2001:db8::1 port 48021 ssh2
+Apr 10 08:05:54 server1 sshd[1072]: Failed password for invalid user test from 2001:db8::1 port 45354 ssh2
+Apr 10 08:05:56 server1 sshd[1073]: Failed password for invalid user deploy from 2001:db8::1 port 55147 ssh2
+Apr 10 08:05:58 server1 sshd[1074]: Failed password for invalid user qa from 2001:db8::1 port 52433 ssh2
+Apr 10 08:06:15 server1 sshd[1075]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 48845 ssh2
+Apr 10 08:06:17 server1 sshd[1076]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 60971 ssh2
+Apr 10 08:06:19 server1 sshd[1077]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 62549 ssh2
+Apr 10 08:06:21 server1 sshd[1078]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 58250 ssh2
+Apr 10 08:06:23 server1 sshd[1079]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 47196 ssh2
+Apr 10 08:06:40 server1 sshd[1080]: Failed password for invalid user root from 203.0.113.45 port 62433 ssh2
+Apr 10 08:06:42 server1 sshd[1081]: Failed password for invalid user oracle from 203.0.113.45 port 41832 ssh2
+Apr 10 08:06:44 server1 sshd[1082]: Failed password for invalid user postgres from 203.0.113.45 port 47505 ssh2
+Apr 10 08:06:46 server1 sshd[1083]: Failed password for invalid user ftp from 203.0.113.45 port 41051 ssh2
+Apr 10 08:06:48 server1 sshd[1084]: Failed password for invalid user ubuntu from 203.0.113.45 port 50336 ssh2
+Apr 10 08:07:05 server1 sshd[1085]: Failed password for root from fd12:3456:789a:1::1 port 53145 ssh2
+Apr 10 08:07:07 server1 sshd[1086]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 46913 ssh2
+Apr 10 08:07:09 server1 sshd[1087]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 58585 ssh2
+Apr 10 08:07:11 server1 sshd[1088]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 63524 ssh2
+Apr 10 08:07:13 server1 sshd[1089]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 50311 ssh2
+Apr 10 08:07:30 server1 sshd[1090]: Failed password for invalid user root from 192.168.1.10 port 46967 ssh2
+Apr 10 08:07:32 server1 sshd[1091]: Failed password for invalid user admin from 192.168.1.10 port 52964 ssh2
+Apr 10 08:07:34 server1 sshd[1092]: Failed password for invalid user guest from 192.168.1.10 port 61064 ssh2
+Apr 10 08:07:36 server1 sshd[1093]: Failed password for invalid user oracle from 192.168.1.10 port 55035 ssh2
+Apr 10 08:07:38 server1 sshd[1094]: Failed password for invalid user test from 192.168.1.10 port 44681 ssh2
+Apr 10 08:07:55 server1 sshd[1095]: Failed password for root from 10.0.0.5 port 48679 ssh2
+Apr 10 08:07:57 server1 sshd[1096]: Failed password for invalid user admin from 10.0.0.5 port 64411 ssh2
+Apr 10 08:07:59 server1 sshd[1097]: Failed password for invalid user backup from 10.0.0.5 port 58394 ssh2
+Apr 10 08:08:01 server1 sshd[1098]: Failed password for invalid user mysql from 10.0.0.5 port 57661 ssh2
+Apr 10 08:08:03 server1 sshd[1099]: Failed password for invalid user guest from 10.0.0.5 port 48609 ssh2
+Apr 10 08:08:20 server1 sshd[1100]: Failed password for invalid user root from 2001:db8::1 port 64478 ssh2
+Apr 10 08:08:22 server1 sshd[1101]: Failed password for invalid user admin from 2001:db8::1 port 59121 ssh2
+Apr 10 08:08:24 server1 sshd[1102]: Failed password for invalid user test from 2001:db8::1 port 53087 ssh2
+Apr 10 08:08:26 server1 sshd[1103]: Failed password for invalid user deploy from 2001:db8::1 port 51861 ssh2
+Apr 10 08:08:28 server1 sshd[1104]: Failed password for invalid user qa from 2001:db8::1 port 47186 ssh2
+Apr 10 08:08:45 server1 sshd[1105]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 44532 ssh2
+Apr 10 08:08:47 server1 sshd[1106]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 42978 ssh2
+Apr 10 08:08:49 server1 sshd[1107]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 64765 ssh2
+Apr 10 08:08:51 server1 sshd[1108]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 41543 ssh2
+Apr 10 08:08:53 server1 sshd[1109]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 43592 ssh2
+Apr 10 08:09:10 server1 sshd[1110]: Failed password for invalid user root from 203.0.113.45 port 45008 ssh2
+Apr 10 08:09:12 server1 sshd[1111]: Failed password for invalid user oracle from 203.0.113.45 port 62298 ssh2
+Apr 10 08:09:14 server1 sshd[1112]: Failed password for invalid user postgres from 203.0.113.45 port 53833 ssh2
+Apr 10 08:09:16 server1 sshd[1113]: Failed password for invalid user ftp from 203.0.113.45 port 59543 ssh2
+Apr 10 08:09:18 server1 sshd[1114]: Failed password for invalid user ubuntu from 203.0.113.45 port 42081 ssh2
+Apr 10 08:09:35 server1 sshd[1115]: Failed password for invalid user root from fd12:3456:789a:1::1 port 52608 ssh2
+Apr 10 08:09:37 server1 sshd[1116]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 55337 ssh2
+Apr 10 08:09:39 server1 sshd[1117]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 57338 ssh2
+Apr 10 08:09:41 server1 sshd[1118]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 48238 ssh2
+Apr 10 08:09:43 server1 sshd[1119]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 58128 ssh2
+Apr 10 08:10:00 server1 sshd[1120]: Failed password for invalid user root from 192.168.1.10 port 40376 ssh2
+Apr 10 08:10:02 server1 sshd[1121]: Failed password for invalid user admin from 192.168.1.10 port 43753 ssh2
+Apr 10 08:10:04 server1 sshd[1122]: Failed password for invalid user guest from 192.168.1.10 port 62338 ssh2
+Apr 10 08:10:06 server1 sshd[1123]: Failed password for invalid user oracle from 192.168.1.10 port 57595 ssh2
+Apr 10 08:10:08 server1 sshd[1124]: Failed password for invalid user test from 192.168.1.10 port 64604 ssh2
+Apr 10 08:10:25 server1 sshd[1125]: Failed password for invalid user root from 10.0.0.5 port 48743 ssh2
+Apr 10 08:10:27 server1 sshd[1126]: Failed password for invalid user admin from 10.0.0.5 port 51146 ssh2
+Apr 10 08:10:29 server1 sshd[1127]: Failed password for invalid user backup from 10.0.0.5 port 43655 ssh2
+Apr 10 08:10:31 server1 sshd[1128]: Failed password for invalid user mysql from 10.0.0.5 port 49617 ssh2
+Apr 10 08:10:33 server1 sshd[1129]: Failed password for invalid user guest from 10.0.0.5 port 54246 ssh2
+Apr 10 08:10:50 server1 sshd[1130]: Failed password for invalid user root from 2001:db8::1 port 45182 ssh2
+Apr 10 08:10:52 server1 sshd[1131]: Failed password for invalid user admin from 2001:db8::1 port 63661 ssh2
+Apr 10 08:10:54 server1 sshd[1132]: Failed password for invalid user test from 2001:db8::1 port 63582 ssh2
+Apr 10 08:10:56 server1 sshd[1133]: Failed password for invalid user deploy from 2001:db8::1 port 48630 ssh2
+Apr 10 08:10:58 server1 sshd[1134]: Failed password for invalid user qa from 2001:db8::1 port 56403 ssh2
+Apr 10 08:11:15 server1 sshd[1135]: Failed password for root from fe80::1ff:fe23:4567:890a port 64967 ssh2
+Apr 10 08:11:17 server1 sshd[1136]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 43486 ssh2
+Apr 10 08:11:19 server1 sshd[1137]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 60489 ssh2
+Apr 10 08:11:21 server1 sshd[1138]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 49779 ssh2
+Apr 10 08:11:23 server1 sshd[1139]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 60937 ssh2
+Apr 10 08:11:40 server1 sshd[1140]: Failed password for invalid user root from 203.0.113.45 port 56635 ssh2
+Apr 10 08:11:42 server1 sshd[1141]: Failed password for invalid user oracle from 203.0.113.45 port 45008 ssh2
+Apr 10 08:11:44 server1 sshd[1142]: Failed password for invalid user postgres from 203.0.113.45 port 52252 ssh2
+Apr 10 08:11:46 server1 sshd[1143]: Failed password for invalid user ftp from 203.0.113.45 port 64985 ssh2
+Apr 10 08:11:48 server1 sshd[1144]: Failed password for invalid user ubuntu from 203.0.113.45 port 45293 ssh2
+Apr 10 08:12:05 server1 sshd[1145]: Failed password for invalid user root from fd12:3456:789a:1::1 port 57674 ssh2
+Apr 10 08:12:07 server1 sshd[1146]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 57378 ssh2
+Apr 10 08:12:09 server1 sshd[1147]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 40018 ssh2
+Apr 10 08:12:11 server1 sshd[1148]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 59626 ssh2
+Apr 10 08:12:13 server1 sshd[1149]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 50621 ssh2
+Apr 10 08:12:30 server1 sshd[1150]: Failed password for root from 192.168.1.10 port 56010 ssh2
+Apr 10 08:12:32 server1 sshd[1151]: Failed password for invalid user admin from 192.168.1.10 port 51894 ssh2
+Apr 10 08:12:34 server1 sshd[1152]: Failed password for invalid user guest from 192.168.1.10 port 50076 ssh2
+Apr 10 08:12:36 server1 sshd[1153]: Failed password for invalid user oracle from 192.168.1.10 port 47846 ssh2
+Apr 10 08:12:38 server1 sshd[1154]: Failed password for invalid user test from 192.168.1.10 port 41898 ssh2
+Apr 10 08:12:55 server1 sshd[1155]: Failed password for invalid user root from 10.0.0.5 port 47892 ssh2
+Apr 10 08:12:57 server1 sshd[1156]: Failed password for invalid user admin from 10.0.0.5 port 42580 ssh2
+Apr 10 08:12:59 server1 sshd[1157]: Failed password for invalid user backup from 10.0.0.5 port 42806 ssh2
+Apr 10 08:13:01 server1 sshd[1158]: Failed password for invalid user mysql from 10.0.0.5 port 63983 ssh2
+Apr 10 08:13:03 server1 sshd[1159]: Failed password for invalid user guest from 10.0.0.5 port 55924 ssh2
+Apr 10 08:13:20 server1 sshd[1160]: Failed password for invalid user root from 2001:db8::1 port 42267 ssh2
+Apr 10 08:13:22 server1 sshd[1161]: Failed password for invalid user admin from 2001:db8::1 port 57455 ssh2
+Apr 10 08:13:24 server1 sshd[1162]: Failed password for invalid user test from 2001:db8::1 port 44120 ssh2
+Apr 10 08:13:26 server1 sshd[1163]: Failed password for invalid user deploy from 2001:db8::1 port 44207 ssh2
+Apr 10 08:13:28 server1 sshd[1164]: Failed password for invalid user qa from 2001:db8::1 port 61618 ssh2
+Apr 10 08:13:45 server1 sshd[1165]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 55574 ssh2
+Apr 10 08:13:47 server1 sshd[1166]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 45410 ssh2
+Apr 10 08:13:49 server1 sshd[1167]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 48685 ssh2
+Apr 10 08:13:51 server1 sshd[1168]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 57290 ssh2
+Apr 10 08:13:53 server1 sshd[1169]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 59876 ssh2
+Apr 10 08:14:10 server1 sshd[1170]: Failed password for invalid user root from 203.0.113.45 port 53865 ssh2
+Apr 10 08:14:12 server1 sshd[1171]: Failed password for invalid user oracle from 203.0.113.45 port 57671 ssh2
+Apr 10 08:14:14 server1 sshd[1172]: Failed password for invalid user postgres from 203.0.113.45 port 64748 ssh2
+Apr 10 08:14:16 server1 sshd[1173]: Failed password for invalid user ftp from 203.0.113.45 port 63918 ssh2
+Apr 10 08:14:18 server1 sshd[1174]: Failed password for invalid user ubuntu from 203.0.113.45 port 62605 ssh2
+Apr 10 08:14:35 server1 sshd[1175]: Failed password for invalid user root from fd12:3456:789a:1::1 port 46591 ssh2
+Apr 10 08:14:37 server1 sshd[1176]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 53074 ssh2
+Apr 10 08:14:39 server1 sshd[1177]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 62009 ssh2
+Apr 10 08:14:41 server1 sshd[1178]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 61295 ssh2
+Apr 10 08:14:43 server1 sshd[1179]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 52236 ssh2
+Apr 10 08:15:00 server1 sshd[1180]: Failed password for invalid user root from 192.168.1.10 port 54355 ssh2
+Apr 10 08:15:02 server1 sshd[1181]: Failed password for invalid user admin from 192.168.1.10 port 54794 ssh2
+Apr 10 08:15:04 server1 sshd[1182]: Failed password for invalid user guest from 192.168.1.10 port 43965 ssh2
+Apr 10 08:15:06 server1 sshd[1183]: Failed password for invalid user oracle from 192.168.1.10 port 48123 ssh2
+Apr 10 08:15:08 server1 sshd[1184]: Failed password for invalid user test from 192.168.1.10 port 47362 ssh2
+Apr 10 08:15:25 server1 sshd[1185]: Failed password for invalid user root from 10.0.0.5 port 42098 ssh2
+Apr 10 08:15:27 server1 sshd[1186]: Failed password for invalid user admin from 10.0.0.5 port 59277 ssh2
+Apr 10 08:15:29 server1 sshd[1187]: Failed password for invalid user backup from 10.0.0.5 port 58150 ssh2
+Apr 10 08:15:31 server1 sshd[1188]: Failed password for invalid user mysql from 10.0.0.5 port 47540 ssh2
+Apr 10 08:15:33 server1 sshd[1189]: Failed password for invalid user guest from 10.0.0.5 port 59282 ssh2
+Apr 10 08:15:50 server1 sshd[1190]: Failed password for root from 2001:db8::1 port 47216 ssh2
+Apr 10 08:15:52 server1 sshd[1191]: Failed password for invalid user admin from 2001:db8::1 port 63194 ssh2
+Apr 10 08:15:54 server1 sshd[1192]: Failed password for invalid user test from 2001:db8::1 port 60679 ssh2
+Apr 10 08:15:56 server1 sshd[1193]: Failed password for invalid user deploy from 2001:db8::1 port 41929 ssh2
+Apr 10 08:15:58 server1 sshd[1194]: Failed password for invalid user qa from 2001:db8::1 port 47501 ssh2
+Apr 10 08:16:15 server1 sshd[1195]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 42208 ssh2
+Apr 10 08:16:17 server1 sshd[1196]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 50827 ssh2
+Apr 10 08:16:19 server1 sshd[1197]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 42321 ssh2
+Apr 10 08:16:21 server1 sshd[1198]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 56847 ssh2
+Apr 10 08:16:23 server1 sshd[1199]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 47798 ssh2
+Apr 10 08:16:40 server1 sshd[1200]: Failed password for invalid user root from 203.0.113.45 port 49125 ssh2
+Apr 10 08:16:42 server1 sshd[1201]: Failed password for invalid user oracle from 203.0.113.45 port 47020 ssh2
+Apr 10 08:16:44 server1 sshd[1202]: Failed password for invalid user postgres from 203.0.113.45 port 57669 ssh2
+Apr 10 08:16:46 server1 sshd[1203]: Failed password for invalid user ftp from 203.0.113.45 port 44335 ssh2
+Apr 10 08:16:48 server1 sshd[1204]: Failed password for invalid user ubuntu from 203.0.113.45 port 63702 ssh2
+Apr 10 08:17:05 server1 sshd[1205]: Failed password for invalid user root from fd12:3456:789a:1::1 port 58711 ssh2
+Apr 10 08:17:07 server1 sshd[1206]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 47962 ssh2
+Apr 10 08:17:09 server1 sshd[1207]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 55498 ssh2
+Apr 10 08:17:11 server1 sshd[1208]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 53338 ssh2
+Apr 10 08:17:13 server1 sshd[1209]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 46239 ssh2
+Apr 10 08:17:30 server1 sshd[1210]: Failed password for root from 192.168.1.10 port 43090 ssh2
+Apr 10 08:17:32 server1 sshd[1211]: Failed password for invalid user admin from 192.168.1.10 port 54124 ssh2
+Apr 10 08:17:34 server1 sshd[1212]: Failed password for invalid user guest from 192.168.1.10 port 51609 ssh2
+Apr 10 08:17:36 server1 sshd[1213]: Failed password for invalid user oracle from 192.168.1.10 port 53879 ssh2
+Apr 10 08:17:38 server1 sshd[1214]: Failed password for invalid user test from 192.168.1.10 port 53470 ssh2
+Apr 10 08:17:55 server1 sshd[1215]: Failed password for invalid user root from 10.0.0.5 port 55303 ssh2
+Apr 10 08:17:57 server1 sshd[1216]: Failed password for invalid user admin from 10.0.0.5 port 41775 ssh2
+Apr 10 08:17:59 server1 sshd[1217]: Failed password for invalid user backup from 10.0.0.5 port 62064 ssh2
+Apr 10 08:18:01 server1 sshd[1218]: Failed password for invalid user mysql from 10.0.0.5 port 61412 ssh2
+Apr 10 08:18:03 server1 sshd[1219]: Failed password for invalid user guest from 10.0.0.5 port 61174 ssh2
+Apr 10 08:18:20 server1 sshd[1220]: Failed password for root from 2001:db8::1 port 43224 ssh2
+Apr 10 08:18:22 server1 sshd[1221]: Failed password for invalid user admin from 2001:db8::1 port 63862 ssh2
+Apr 10 08:18:24 server1 sshd[1222]: Failed password for invalid user test from 2001:db8::1 port 51118 ssh2
+Apr 10 08:18:26 server1 sshd[1223]: Failed password for invalid user deploy from 2001:db8::1 port 43580 ssh2
+Apr 10 08:18:28 server1 sshd[1224]: Failed password for invalid user qa from 2001:db8::1 port 48147 ssh2
+Apr 10 08:18:45 server1 sshd[1225]: Failed password for root from fe80::1ff:fe23:4567:890a port 46278 ssh2
+Apr 10 08:18:47 server1 sshd[1226]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 54700 ssh2
+Apr 10 08:18:49 server1 sshd[1227]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 44593 ssh2
+Apr 10 08:18:51 server1 sshd[1228]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 53824 ssh2
+Apr 10 08:18:53 server1 sshd[1229]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 46012 ssh2
+Apr 10 08:19:10 server1 sshd[1230]: Failed password for invalid user root from 203.0.113.45 port 49127 ssh2
+Apr 10 08:19:12 server1 sshd[1231]: Failed password for invalid user oracle from 203.0.113.45 port 42470 ssh2
+Apr 10 08:19:14 server1 sshd[1232]: Failed password for invalid user postgres from 203.0.113.45 port 54520 ssh2
+Apr 10 08:19:16 server1 sshd[1233]: Failed password for invalid user ftp from 203.0.113.45 port 58033 ssh2
+Apr 10 08:19:18 server1 sshd[1234]: Failed password for invalid user ubuntu from 203.0.113.45 port 43208 ssh2
+Apr 10 08:19:35 server1 sshd[1235]: Failed password for invalid user root from fd12:3456:789a:1::1 port 41657 ssh2
+Apr 10 08:19:37 server1 sshd[1236]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 57713 ssh2
+Apr 10 08:19:39 server1 sshd[1237]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 40483 ssh2
+Apr 10 08:19:41 server1 sshd[1238]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 43056 ssh2
+Apr 10 08:19:43 server1 sshd[1239]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 64692 ssh2
+Apr 10 08:20:00 server1 sshd[1240]: Failed password for root from 192.168.1.10 port 47745 ssh2
+Apr 10 08:20:02 server1 sshd[1241]: Failed password for invalid user admin from 192.168.1.10 port 55913 ssh2
+Apr 10 08:20:04 server1 sshd[1242]: Failed password for invalid user guest from 192.168.1.10 port 55773 ssh2
+Apr 10 08:20:06 server1 sshd[1243]: Failed password for invalid user oracle from 192.168.1.10 port 47004 ssh2
+Apr 10 08:20:08 server1 sshd[1244]: Failed password for invalid user test from 192.168.1.10 port 53141 ssh2
+Apr 10 08:20:25 server1 sshd[1245]: Failed password for root from 10.0.0.5 port 41921 ssh2
+Apr 10 08:20:27 server1 sshd[1246]: Failed password for invalid user admin from 10.0.0.5 port 40070 ssh2
+Apr 10 08:20:29 server1 sshd[1247]: Failed password for invalid user backup from 10.0.0.5 port 52793 ssh2
+Apr 10 08:20:31 server1 sshd[1248]: Failed password for invalid user mysql from 10.0.0.5 port 48690 ssh2
+Apr 10 08:20:33 server1 sshd[1249]: Failed password for invalid user guest from 10.0.0.5 port 54909 ssh2
+Apr 10 08:20:50 server1 sshd[1250]: Failed password for invalid user root from 2001:db8::1 port 49347 ssh2
+Apr 10 08:20:52 server1 sshd[1251]: Failed password for invalid user admin from 2001:db8::1 port 63937 ssh2
+Apr 10 08:20:54 server1 sshd[1252]: Failed password for invalid user test from 2001:db8::1 port 58211 ssh2
+Apr 10 08:20:56 server1 sshd[1253]: Failed password for invalid user deploy from 2001:db8::1 port 61688 ssh2
+Apr 10 08:20:58 server1 sshd[1254]: Failed password for invalid user qa from 2001:db8::1 port 63540 ssh2
+Apr 10 08:21:15 server1 sshd[1255]: Failed password for root from fe80::1ff:fe23:4567:890a port 55947 ssh2
+Apr 10 08:21:17 server1 sshd[1256]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 49722 ssh2
+Apr 10 08:21:19 server1 sshd[1257]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 47133 ssh2
+Apr 10 08:21:21 server1 sshd[1258]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 41916 ssh2
+Apr 10 08:21:23 server1 sshd[1259]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 58978 ssh2
+Apr 10 08:21:40 server1 sshd[1260]: Failed password for invalid user root from 203.0.113.45 port 64108 ssh2
+Apr 10 08:21:42 server1 sshd[1261]: Failed password for invalid user oracle from 203.0.113.45 port 64509 ssh2
+Apr 10 08:21:44 server1 sshd[1262]: Failed password for invalid user postgres from 203.0.113.45 port 50276 ssh2
+Apr 10 08:21:46 server1 sshd[1263]: Failed password for invalid user ftp from 203.0.113.45 port 41873 ssh2
+Apr 10 08:21:48 server1 sshd[1264]: Failed password for invalid user ubuntu from 203.0.113.45 port 41643 ssh2
+Apr 10 08:22:05 server1 sshd[1265]: Failed password for invalid user root from fd12:3456:789a:1::1 port 59142 ssh2
+Apr 10 08:22:07 server1 sshd[1266]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 57403 ssh2
+Apr 10 08:22:09 server1 sshd[1267]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 45158 ssh2
+Apr 10 08:22:11 server1 sshd[1268]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 41863 ssh2
+Apr 10 08:22:13 server1 sshd[1269]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 56640 ssh2
+Apr 10 08:22:30 server1 sshd[1270]: Failed password for invalid user root from 192.168.1.10 port 42625 ssh2
+Apr 10 08:22:32 server1 sshd[1271]: Failed password for invalid user admin from 192.168.1.10 port 42245 ssh2
+Apr 10 08:22:34 server1 sshd[1272]: Failed password for invalid user guest from 192.168.1.10 port 59498 ssh2
+Apr 10 08:22:36 server1 sshd[1273]: Failed password for invalid user oracle from 192.168.1.10 port 42226 ssh2
+Apr 10 08:22:38 server1 sshd[1274]: Failed password for invalid user test from 192.168.1.10 port 62125 ssh2
+Apr 10 08:22:55 server1 sshd[1275]: Failed password for invalid user root from 10.0.0.5 port 47707 ssh2
+Apr 10 08:22:57 server1 sshd[1276]: Failed password for invalid user admin from 10.0.0.5 port 58667 ssh2
+Apr 10 08:22:59 server1 sshd[1277]: Failed password for invalid user backup from 10.0.0.5 port 48067 ssh2
+Apr 10 08:23:01 server1 sshd[1278]: Failed password for invalid user mysql from 10.0.0.5 port 58970 ssh2
+Apr 10 08:23:03 server1 sshd[1279]: Failed password for invalid user guest from 10.0.0.5 port 59481 ssh2
+Apr 10 08:23:20 server1 sshd[1280]: Failed password for invalid user root from 2001:db8::1 port 41302 ssh2
+Apr 10 08:23:22 server1 sshd[1281]: Failed password for invalid user admin from 2001:db8::1 port 53737 ssh2
+Apr 10 08:23:24 server1 sshd[1282]: Failed password for invalid user test from 2001:db8::1 port 61540 ssh2
+Apr 10 08:23:26 server1 sshd[1283]: Failed password for invalid user deploy from 2001:db8::1 port 59125 ssh2
+Apr 10 08:23:28 server1 sshd[1284]: Failed password for invalid user qa from 2001:db8::1 port 58521 ssh2
+Apr 10 08:23:45 server1 sshd[1285]: Failed password for invalid user root from fe80::1ff:fe23:4567:890a port 57130 ssh2
+Apr 10 08:23:47 server1 sshd[1286]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 48544 ssh2
+Apr 10 08:23:49 server1 sshd[1287]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 46693 ssh2
+Apr 10 08:23:51 server1 sshd[1288]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 61945 ssh2
+Apr 10 08:23:53 server1 sshd[1289]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 63468 ssh2
+Apr 10 08:24:10 server1 sshd[1290]: Failed password for root from 203.0.113.45 port 50295 ssh2
+Apr 10 08:24:12 server1 sshd[1291]: Failed password for invalid user oracle from 203.0.113.45 port 52969 ssh2
+Apr 10 08:24:14 server1 sshd[1292]: Failed password for invalid user postgres from 203.0.113.45 port 44288 ssh2
+Apr 10 08:24:16 server1 sshd[1293]: Failed password for invalid user ftp from 203.0.113.45 port 62009 ssh2
+Apr 10 08:24:18 server1 sshd[1294]: Failed password for invalid user ubuntu from 203.0.113.45 port 61151 ssh2
+Apr 10 08:24:35 server1 sshd[1295]: Failed password for invalid user root from fd12:3456:789a:1::1 port 49830 ssh2
+Apr 10 08:24:37 server1 sshd[1296]: Failed password for invalid user dev from fd12:3456:789a:1::1 port 64637 ssh2
+Apr 10 08:24:39 server1 sshd[1297]: Failed password for invalid user qa from fd12:3456:789a:1::1 port 42377 ssh2
+Apr 10 08:24:41 server1 sshd[1298]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 40305 ssh2
+Apr 10 08:24:43 server1 sshd[1299]: Failed password for invalid user guest from fd12:3456:789a:1::1 port 55017 ssh2
+Apr 10 08:26:24 server1 sshd[1300]: Failed password for invalid user oracle from 2606:4700:4700::1111 port 42400 ssh2
+Apr 10 08:27:37 server1 sshd[1301]: Failed password for invalid user web from 192.0.2.15 port 44340 ssh2
+Apr 10 08:28:26 server1 sshd[1302]: Failed password for invalid user test from 172.16.0.12 port 52108 ssh2
+Apr 10 08:29:07 server1 sshd[1303]: Failed password for invalid user ubuntu from 8.8.8.8 port 57800 ssh2
+Apr 10 08:29:50 server1 sshd[1304]: Failed password for invalid user root from 2001:4860:4860::8888 port 61884 ssh2
+Apr 10 08:30:33 server1 sshd[1305]: Failed password for invalid user oracle from 2001:db8:abcd:12::1 port 44400 ssh2
+Apr 10 08:31:11 server1 sshd[1306]: Failed password for invalid user oracle from 203.0.113.45 port 64327 ssh2
+Apr 10 08:32:26 server1 sshd[1307]: Failed password for invalid user web from 198.51.100.22 port 49232 ssh2
+Apr 10 08:33:48 server1 sshd[1308]: Failed password for invalid user dev from 192.0.2.15 port 46671 ssh2
+Apr 10 08:35:14 server1 sshd[1309]: Failed password for invalid user postgres from 169.254.1.1 port 48228 ssh2
+Apr 10 08:35:25 server1 sshd[1310]: Failed password for invalid user ftp from 172.16.0.12 port 49066 ssh2
+Apr 10 08:35:35 server1 sshd[1311]: Failed password for invalid user dev from 192.168.1.10 port 44286 ssh2
+Apr 10 08:37:01 server1 sshd[1312]: Failed password for invalid user backup from 169.254.1.1 port 64288 ssh2
+Apr 10 08:38:02 server1 sshd[1313]: Failed password for invalid user ftp from fc00::1234 port 58379 ssh2
+Apr 10 08:38:08 server1 sshd[1314]: Failed password for invalid user guest from 203.0.113.45 port 62643 ssh2
+Apr 10 08:38:32 server1 sshd[1315]: Failed password for invalid user admin from fc00::1234 port 52098 ssh2
+Apr 10 08:39:51 server1 sshd[1316]: Failed password for invalid user mysql from fc00::1234 port 54083 ssh2
+Apr 10 08:40:12 server1 sshd[1317]: Failed password for invalid user apache from 10.0.0.5 port 51948 ssh2
+Apr 10 08:40:22 server1 sshd[1318]: Failed password for invalid user support from 185.220.101.1 port 62349 ssh2
+Apr 10 08:40:58 server1 sshd[1319]: Failed password for invalid user oracle from 2001:db8:abcd:12::1 port 51589 ssh2
+Apr 10 08:42:14 server1 sshd[1320]: Failed password for invalid user mysql from 2001:db8:85a3::8a2e:370:7334 port 47757 ssh2
+Apr 10 08:42:39 server1 sshd[1321]: Failed password for invalid user ftp from 8.8.8.8 port 40812 ssh2
+Apr 10 08:43:06 server1 sshd[1322]: Failed password for invalid user ftp from 91.198.174.192 port 61951 ssh2
+Apr 10 08:43:42 server1 sshd[1323]: Failed password for invalid user backup from 169.254.1.1 port 62979 ssh2
+Apr 10 08:44:00 server1 sshd[1324]: Failed password for invalid user admin from 2001:db8::1 port 55423 ssh2
+Apr 10 08:44:33 server1 sshd[1325]: Failed password for invalid user ubuntu from 192.0.2.15 port 51457 ssh2
+Apr 10 08:45:17 server1 sshd[1326]: Failed password for invalid user test from 198.18.0.1 port 40775 ssh2
+Apr 10 08:46:46 server1 sshd[1327]: Failed password for invalid user deploy from 192.0.2.15 port 50756 ssh2
+Apr 10 08:47:26 server1 sshd[1328]: Failed password for invalid user web from 172.16.0.12 port 51506 ssh2
+Apr 10 08:48:53 server1 sshd[1329]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 62266 ssh2
+Apr 10 08:50:06 server1 sshd[1330]: Failed password for invalid user root from 91.198.174.192 port 43779 ssh2
+Apr 10 08:50:44 server1 sshd[1331]: Failed password for invalid user web from 8.8.8.8 port 41253 ssh2
+Apr 10 08:51:02 server1 sshd[1332]: Failed password for invalid user ftp from 2001:4860:4860::8888 port 51327 ssh2
+Apr 10 08:51:47 server1 sshd[1333]: Failed password for invalid user oracle from 2001:db8:85a3::8a2e:370:7334 port 52622 ssh2
+Apr 10 08:53:05 server1 sshd[1334]: Failed password for invalid user web from 192.0.2.15 port 41454 ssh2
+Apr 10 08:54:05 server1 sshd[1335]: Failed password for invalid user support from 192.168.1.10 port 51934 ssh2
+Apr 10 08:55:05 server1 sshd[1336]: Failed password for invalid user dev from 172.16.0.12 port 60419 ssh2
+Apr 10 08:55:50 server1 sshd[1337]: Failed password for invalid user oracle from 2001:db8:abcd:12::1 port 63584 ssh2
+Apr 10 08:56:33 server1 sshd[1338]: Failed password for invalid user apache from fd12:3456:789a:1::1 port 61852 ssh2
+Apr 10 08:57:30 server1 sshd[1339]: Failed password for invalid user deploy from 91.198.174.192 port 62846 ssh2
+Apr 10 08:58:12 server1 sshd[1340]: Failed password for invalid user mysql from fc00::1234 port 46286 ssh2
+Apr 10 08:59:10 server1 sshd[1341]: Failed password for invalid user deploy from 2001:db8:abcd:12::1 port 62194 ssh2
+Apr 10 08:59:37 server1 sshd[1342]: Failed password for invalid user apache from 2001:4860:4860::8888 port 53306 ssh2
+Apr 10 09:00:52 server1 sshd[1343]: Failed password for invalid user apache from 192.168.1.10 port 49401 ssh2
+Apr 10 09:01:23 server1 sshd[1344]: Failed password for invalid user dev from 2001:db8:85a3::8a2e:370:7334 port 55236 ssh2
+Apr 10 09:02:24 server1 sshd[1345]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 56750 ssh2
+Apr 10 09:03:29 server1 sshd[1346]: Failed password for invalid user guest from 8.8.8.8 port 49299 ssh2
+Apr 10 09:04:39 server1 sshd[1347]: Failed password for invalid user dev from 2001:db8:abcd:12::1 port 43060 ssh2
+Apr 10 09:05:14 server1 sshd[1348]: Failed password for invalid user apache from 2001:db8:abcd:12::1 port 47361 ssh2
+Apr 10 09:05:44 server1 sshd[1349]: Failed password for root from 198.51.100.22 port 41514 ssh2
+Apr 10 09:06:49 server1 sshd[1350]: Failed password for invalid user guest from 2001:4860:4860::8888 port 54923 ssh2
+Apr 10 09:07:47 server1 sshd[1351]: Failed password for invalid user support from ::ffff:192.0.2.128 port 63538 ssh2
+Apr 10 09:08:41 server1 sshd[1352]: Failed password for invalid user deploy from ::1 port 47994 ssh2
+Apr 10 09:09:04 server1 sshd[1353]: Failed password for invalid user root from ::ffff:192.0.2.128 port 64607 ssh2
+Apr 10 09:09:22 server1 sshd[1354]: Failed password for invalid user test from 2001:db8:85a3::8a2e:370:7334 port 45763 ssh2
+Apr 10 09:10:33 server1 sshd[1355]: Failed password for invalid user admin from fe80::1ff:fe23:4567:890a port 58265 ssh2
+Apr 10 09:11:09 server1 sshd[1356]: Failed password for invalid user ubuntu from 203.0.113.45 port 44369 ssh2
+Apr 10 09:12:13 server1 sshd[1357]: Failed password for invalid user dev from 2001:db8:abcd:12::1 port 64748 ssh2
+Apr 10 09:13:14 server1 sshd[1358]: Failed password for invalid user ftp from 2001:4860:4860::8888 port 57952 ssh2
+Apr 10 09:14:16 server1 sshd[1359]: Failed password for invalid user postgres from 8.8.8.8 port 54747 ssh2
+Apr 10 09:14:54 server1 sshd[1360]: Failed password for invalid user web from 198.18.0.1 port 57081 ssh2
+Apr 10 09:16:01 server1 sshd[1361]: Failed password for invalid user test from ::ffff:192.0.2.128 port 48998 ssh2
+Apr 10 09:17:02 server1 sshd[1362]: Failed password for invalid user apache from 172.16.0.12 port 47683 ssh2
+Apr 10 09:17:41 server1 sshd[1363]: Failed password for invalid user dev from 91.198.174.192 port 57699 ssh2
+Apr 10 09:17:56 server1 sshd[1364]: Failed password for invalid user mysql from 198.51.100.22 port 47577 ssh2
+Apr 10 09:18:50 server1 sshd[1365]: Failed password for invalid user support from 198.51.100.22 port 42104 ssh2
+Apr 10 09:19:48 server1 sshd[1366]: Failed password for invalid user dev from 2001:db8:85a3::8a2e:370:7334 port 57780 ssh2
+Apr 10 09:20:52 server1 sshd[1367]: Failed password for invalid user admin from 2001:db8:85a3::8a2e:370:7334 port 46777 ssh2
+Apr 10 09:21:50 server1 sshd[1368]: Failed password for root from 2001:db8::1 port 58864 ssh2
+Apr 10 09:21:55 server1 sshd[1369]: Failed password for invalid user apache from 185.220.101.1 port 64689 ssh2
+Apr 10 09:22:49 server1 sshd[1370]: Failed password for invalid user test from 2001:db8:85a3::8a2e:370:7334 port 55998 ssh2
+Apr 10 09:23:22 server1 sshd[1371]: Failed password for invalid user ftp from 169.254.1.1 port 55913 ssh2
+Apr 10 09:23:30 server1 sshd[1372]: Failed password for invalid user dev from 2001:db8::1 port 61917 ssh2
+Apr 10 09:24:26 server1 sshd[1373]: Failed password for invalid user ubuntu from 8.8.8.8 port 44182 ssh2
+Apr 10 09:25:50 server1 sshd[1374]: Failed password for invalid user root from fc00::1234 port 52911 ssh2
+Apr 10 09:27:19 server1 sshd[1375]: Failed password for invalid user guest from 192.168.1.10 port 61061 ssh2
+Apr 10 09:28:18 server1 sshd[1376]: Failed password for invalid user ubuntu from 198.51.100.22 port 45954 ssh2
+Apr 10 09:28:29 server1 sshd[1377]: Failed password for invalid user deploy from 169.254.1.1 port 50726 ssh2
+Apr 10 09:29:01 server1 sshd[1378]: Failed password for invalid user dev from fe80::1ff:fe23:4567:890a port 51059 ssh2
+Apr 10 09:29:54 server1 sshd[1379]: Failed password for invalid user ftp from 169.254.1.1 port 48266 ssh2
+Apr 10 09:30:09 server1 sshd[1380]: Failed password for invalid user root from ::1 port 64544 ssh2
+Apr 10 09:30:58 server1 sshd[1381]: Failed password for invalid user guest from 198.18.0.1 port 61356 ssh2
+Apr 10 09:31:08 server1 sshd[1382]: Failed password for invalid user test from 192.168.1.10 port 46532 ssh2
+Apr 10 09:31:15 server1 sshd[1383]: Failed password for invalid user mysql from 2001:4860:4860::8888 port 47816 ssh2
+Apr 10 09:31:36 server1 sshd[1384]: Failed password for invalid user oracle from ::1 port 58480 ssh2
+Apr 10 09:32:08 server1 sshd[1385]: Failed password for invalid user web from fe80::1ff:fe23:4567:890a port 52087 ssh2
+Apr 10 09:32:34 server1 sshd[1386]: Failed password for invalid user oracle from 2001:4860:4860::8888 port 45366 ssh2
+Apr 10 09:33:18 server1 sshd[1387]: Failed password for invalid user root from 203.0.113.45 port 50222 ssh2
+Apr 10 09:34:11 server1 sshd[1388]: Failed password for invalid user support from 2001:db8::1 port 42490 ssh2
+Apr 10 09:35:31 server1 sshd[1389]: Failed password for invalid user test from ::ffff:192.0.2.128 port 43339 ssh2
+Apr 10 09:36:14 server1 sshd[1390]: Failed password for invalid user oracle from 2001:db8:abcd:12::1 port 58544 ssh2
+Apr 10 09:36:24 server1 sshd[1391]: Failed password for invalid user ftp from 185.220.101.1 port 61676 ssh2
+Apr 10 09:37:16 server1 sshd[1392]: Failed password for invalid user dev from 172.16.0.12 port 40414 ssh2
+Apr 10 09:38:14 server1 sshd[1393]: Failed password for invalid user oracle from ::1 port 54205 ssh2
+Apr 10 09:39:05 server1 sshd[1394]: Failed password for invalid user ubuntu from ::ffff:192.0.2.128 port 63177 ssh2
+Apr 10 09:39:29 server1 sshd[1395]: Failed password for invalid user backup from 2001:db8:85a3::8a2e:370:7334 port 64045 ssh2
+Apr 10 09:40:40 server1 sshd[1396]: Failed password for invalid user web from ::ffff:192.0.2.128 port 60182 ssh2
+Apr 10 09:41:53 server1 sshd[1397]: Failed password for invalid user ubuntu from ::1 port 54272 ssh2
+Apr 10 09:43:13 server1 sshd[1398]: Failed password for invalid user dev from 169.254.1.1 port 48044 ssh2
+Apr 10 09:43:29 server1 sshd[1399]: Failed password for invalid user ubuntu from 169.254.1.1 port 47990 ssh2
+Apr 10 09:44:33 server1 sshd[1400]: Failed password for invalid user deploy from 2606:4700:4700::1111 port 51023 ssh2
+Apr 10 09:44:41 server1 sshd[1401]: Failed password for invalid user dev from ::1 port 45958 ssh2
+Apr 10 09:45:48 server1 sshd[1402]: Failed password for invalid user qa from 192.0.2.15 port 48465 ssh2
+Apr 10 09:46:36 server1 sshd[1403]: Failed password for invalid user web from 169.254.1.1 port 58212 ssh2
+Apr 10 09:46:42 server1 sshd[1404]: Failed password for invalid user support from fd12:3456:789a:1::1 port 42805 ssh2
+Apr 10 09:47:17 server1 sshd[1405]: Failed password for invalid user postgres from 2001:db8:85a3::8a2e:370:7334 port 58192 ssh2
+Apr 10 09:47:52 server1 sshd[1406]: Failed password for invalid user postgres from ::1 port 54685 ssh2
+Apr 10 09:47:59 server1 sshd[1407]: Failed password for invalid user apache from 172.16.0.12 port 47261 ssh2
+Apr 10 09:48:55 server1 sshd[1408]: Failed password for invalid user apache from 198.18.0.1 port 61756 ssh2
+Apr 10 09:50:14 server1 sshd[1409]: Failed password for invalid user postgres from 185.220.101.1 port 58136 ssh2
+Apr 10 09:51:26 server1 sshd[1410]: Failed password for invalid user ftp from 185.220.101.1 port 64442 ssh2
+Apr 10 09:52:41 server1 sshd[1411]: Failed password for invalid user qa from 91.198.174.192 port 63031 ssh2
+Apr 10 09:53:44 server1 sshd[1412]: Failed password for invalid user apache from 169.254.1.1 port 48237 ssh2
+Apr 10 09:54:18 server1 sshd[1413]: Failed password for invalid user support from 203.0.113.45 port 50339 ssh2
+Apr 10 09:54:38 server1 sshd[1414]: Failed password for invalid user backup from fc00::1234 port 46276 ssh2
+Apr 10 09:55:10 server1 sshd[1415]: Failed password for invalid user web from ::1 port 63743 ssh2
+Apr 10 09:56:30 server1 sshd[1416]: Failed password for invalid user apache from fd12:3456:789a:1::1 port 43294 ssh2
+Apr 10 09:56:59 server1 sshd[1417]: Failed password for invalid user test from 45.67.89.101 port 51825 ssh2
+Apr 10 09:57:26 server1 sshd[1418]: Failed password for invalid user root from 45.67.89.101 port 63200 ssh2
+Apr 10 09:58:06 server1 sshd[1419]: Failed password for invalid user admin from 10.0.0.5 port 58132 ssh2
+Apr 10 09:58:48 server1 sshd[1420]: Failed password for invalid user postgres from 198.51.100.22 port 43361 ssh2
+Apr 10 09:58:54 server1 sshd[1421]: Failed password for invalid user apache from 2606:4700:4700::1111 port 55381 ssh2
+Apr 10 10:00:00 server1 sshd[1422]: Failed password for invalid user dev from fe80::1ff:fe23:4567:890a port 46041 ssh2
+Apr 10 10:00:11 server1 sshd[1423]: Failed password for invalid user postgres from 169.254.1.1 port 43738 ssh2
+Apr 10 10:00:24 server1 sshd[1424]: Failed password for invalid user postgres from 2001:db8::1 port 42427 ssh2
+Apr 10 10:01:42 server1 sshd[1425]: Failed password for invalid user admin from ::ffff:192.0.2.128 port 44971 ssh2
+Apr 10 10:02:06 server1 sshd[1426]: Failed password for invalid user apache from 2606:4700:4700::1111 port 42791 ssh2
+Apr 10 10:02:42 server1 sshd[1427]: Failed password for invalid user ftp from 203.0.113.45 port 59867 ssh2
+Apr 10 10:04:03 server1 sshd[1428]: Failed password for invalid user test from 2001:4860:4860::8888 port 57123 ssh2
+Apr 10 10:04:56 server1 sshd[1429]: Failed password for invalid user ubuntu from fe80::1ff:fe23:4567:890a port 49743 ssh2
+Apr 10 10:06:16 server1 sshd[1430]: Failed password for invalid user apache from 2001:db8:85a3::8a2e:370:7334 port 58632 ssh2
+Apr 10 10:07:40 server1 sshd[1431]: Failed password for invalid user oracle from 10.0.0.5 port 64993 ssh2
+Apr 10 10:08:11 server1 sshd[1432]: Failed password for invalid user support from ::ffff:192.0.2.128 port 48671 ssh2
+Apr 10 10:09:40 server1 sshd[1433]: Failed password for invalid user backup from 172.16.0.12 port 47859 ssh2
+Apr 10 10:10:07 server1 sshd[1434]: Failed password for invalid user guest from fc00::1234 port 45129 ssh2
+Apr 10 10:10:12 server1 sshd[1435]: Failed password for invalid user ubuntu from 2001:db8:85a3::8a2e:370:7334 port 62589 ssh2
+Apr 10 10:11:33 server1 sshd[1436]: Failed password for invalid user apache from ::1 port 41069 ssh2
+Apr 10 10:12:07 server1 sshd[1437]: Failed password for invalid user apache from 45.67.89.101 port 63035 ssh2
+Apr 10 10:13:10 server1 sshd[1438]: Failed password for invalid user test from 172.16.0.12 port 48668 ssh2
+Apr 10 10:14:35 server1 sshd[1439]: Failed password for invalid user support from 2606:4700:4700::1111 port 53930 ssh2
+Apr 10 10:14:54 server1 sshd[1440]: Failed password for invalid user test from fc00::1234 port 61221 ssh2
+Apr 10 10:15:18 server1 sshd[1441]: Failed password for invalid user mysql from 169.254.1.1 port 42339 ssh2
+Apr 10 10:15:30 server1 sshd[1442]: Failed password for invalid user apache from 8.8.8.8 port 59498 ssh2
+Apr 10 10:16:47 server1 sshd[1443]: Failed password for invalid user ubuntu from 45.67.89.101 port 44074 ssh2
+Apr 10 10:17:51 server1 sshd[1444]: Failed password for invalid user deploy from 45.67.89.101 port 48920 ssh2
+Apr 10 10:19:00 server1 sshd[1445]: Failed password for invalid user postgres from fc00::1234 port 54344 ssh2
+Apr 10 10:19:15 server1 sshd[1446]: Failed password for invalid user admin from 2001:4860:4860::8888 port 54156 ssh2
+Apr 10 10:20:01 server1 sshd[1447]: Failed password for invalid user web from 2001:4860:4860::8888 port 40847 ssh2
+Apr 10 10:20:17 server1 sshd[1448]: Failed password for invalid user root from 198.18.0.1 port 62029 ssh2
+Apr 10 10:21:35 server1 sshd[1449]: Failed password for invalid user backup from 10.0.0.5 port 55417 ssh2
+Apr 10 10:22:46 server1 sshd[1450]: Failed password for invalid user ubuntu from ::ffff:192.0.2.128 port 49114 ssh2
+Apr 10 10:23:14 server1 sshd[1451]: Failed password for invalid user ftp from 2606:4700:4700::1111 port 60800 ssh2
+Apr 10 10:24:21 server1 sshd[1452]: Failed password for invalid user postgres from 172.16.0.12 port 51401 ssh2
+Apr 10 10:25:18 server1 sshd[1453]: Failed password for invalid user dev from 91.198.174.192 port 61958 ssh2
+Apr 10 10:25:36 server1 sshd[1454]: Failed password for invalid user dev from 8.8.8.8 port 53488 ssh2
+Apr 10 10:26:44 server1 sshd[1455]: Failed password for invalid user deploy from 45.67.89.101 port 64920 ssh2
+Apr 10 10:27:59 server1 sshd[1456]: Failed password for invalid user ubuntu from 10.0.0.5 port 42885 ssh2
+Apr 10 10:28:44 server1 sshd[1457]: Failed password for invalid user dev from 169.254.1.1 port 43798 ssh2
+Apr 10 10:29:40 server1 sshd[1458]: Failed password for invalid user root from fd12:3456:789a:1::1 port 61550 ssh2
+Apr 10 10:30:44 server1 sshd[1459]: Failed password for invalid user admin from 2001:db8:85a3::8a2e:370:7334 port 46146 ssh2
+Apr 10 10:31:55 server1 sshd[1460]: Failed password for invalid user postgres from 185.220.101.1 port 60493 ssh2
+Apr 10 10:32:56 server1 sshd[1461]: Failed password for invalid user support from 10.0.0.5 port 48750 ssh2
+Apr 10 10:34:11 server1 sshd[1462]: Failed password for invalid user apache from 198.51.100.22 port 54356 ssh2
+Apr 10 10:35:18 server1 sshd[1463]: Failed password for invalid user root from 203.0.113.45 port 60644 ssh2
+Apr 10 10:35:53 server1 sshd[1464]: Failed password for invalid user apache from 8.8.8.8 port 58049 ssh2
+Apr 10 10:35:59 server1 sshd[1465]: Failed password for invalid user ftp from fc00::1234 port 43054 ssh2
+Apr 10 10:36:32 server1 sshd[1466]: Failed password for invalid user ubuntu from 203.0.113.45 port 43849 ssh2
+Apr 10 10:37:59 server1 sshd[1467]: Failed password for invalid user postgres from 198.51.100.22 port 63481 ssh2
+Apr 10 10:38:41 server1 sshd[1468]: Failed password for invalid user web from fd12:3456:789a:1::1 port 53614 ssh2
+Apr 10 10:39:47 server1 sshd[1469]: Failed password for invalid user test from ::1 port 54967 ssh2
+Apr 10 10:41:02 server1 sshd[1470]: Failed password for invalid user deploy from 198.51.100.22 port 46245 ssh2
+Apr 10 10:42:23 server1 sshd[1471]: Failed password for invalid user mysql from fd12:3456:789a:1::1 port 42287 ssh2
+Apr 10 10:43:03 server1 sshd[1472]: Failed password for invalid user dev from 2001:db8:85a3::8a2e:370:7334 port 56637 ssh2
+Apr 10 10:43:42 server1 sshd[1473]: Failed password for invalid user apache from 192.168.1.10 port 63791 ssh2
+Apr 10 10:44:25 server1 sshd[1474]: Failed password for invalid user postgres from 2606:4700:4700::1111 port 44869 ssh2
+Apr 10 10:45:27 server1 sshd[1475]: Failed password for invalid user postgres from fc00::1234 port 51309 ssh2
+Apr 10 10:46:14 server1 sshd[1476]: Failed password for invalid user deploy from fc00::1234 port 54920 ssh2
+Apr 10 10:47:00 server1 sshd[1477]: Failed password for invalid user test from 192.0.2.15 port 58736 ssh2
+Apr 10 10:47:54 server1 sshd[1478]: Failed password for invalid user ftp from 198.18.0.1 port 41430 ssh2
+Apr 10 10:48:39 server1 sshd[1479]: Failed password for invalid user deploy from ::1 port 52651 ssh2
+Apr 10 10:50:08 server1 sshd[1480]: Failed password for invalid user mysql from ::ffff:192.0.2.128 port 56230 ssh2
+Apr 10 10:50:17 server1 sshd[1481]: Failed password for invalid user dev from 198.51.100.22 port 43288 ssh2
+Apr 10 10:51:18 server1 sshd[1482]: Failed password for invalid user ubuntu from 203.0.113.45 port 40502 ssh2
+Apr 10 10:51:41 server1 sshd[1483]: Failed password for invalid user mysql from 2001:db8:85a3::8a2e:370:7334 port 42451 ssh2
+Apr 10 10:52:46 server1 sshd[1484]: Failed password for invalid user dev from 169.254.1.1 port 60422 ssh2
+Apr 10 10:53:41 server1 sshd[1485]: Failed password for invalid user guest from ::ffff:192.0.2.128 port 50766 ssh2
+Apr 10 10:54:54 server1 sshd[1486]: Failed password for invalid user dev from 2001:db8::1 port 60538 ssh2
+Apr 10 10:56:01 server1 sshd[1487]: Failed password for invalid user admin from fc00::1234 port 60232 ssh2
+Apr 10 10:56:14 server1 sshd[1488]: Failed password for invalid user apache from 198.18.0.1 port 47454 ssh2
+Apr 10 10:56:30 server1 sshd[1489]: Failed password for invalid user oracle from 2001:db8:85a3::8a2e:370:7334 port 64915 ssh2
+Apr 10 10:57:56 server1 sshd[1490]: Failed password for invalid user ubuntu from 203.0.113.45 port 45451 ssh2
+Apr 10 10:58:39 server1 sshd[1491]: Failed password for invalid user admin from 192.168.1.10 port 50629 ssh2
+Apr 10 10:58:51 server1 sshd[1492]: Failed password for invalid user qa from 45.67.89.101 port 52282 ssh2
+Apr 10 10:59:51 server1 sshd[1493]: Failed password for invalid user test from 198.51.100.22 port 57405 ssh2
+Apr 10 11:00:48 server1 sshd[1494]: Failed password for invalid user backup from 2606:4700:4700::1111 port 45570 ssh2
+Apr 10 11:01:15 server1 sshd[1495]: Failed password for invalid user deploy from 172.16.0.12 port 60306 ssh2
+Apr 10 11:01:50 server1 sshd[1496]: Failed password for invalid user mysql from ::1 port 47608 ssh2
+Apr 10 11:02:54 server1 sshd[1497]: Failed password for invalid user web from ::ffff:192.0.2.128 port 55059 ssh2
+Apr 10 11:03:31 server1 sshd[1498]: Failed password for invalid user root from 2001:db8:abcd:12::1 port 55245 ssh2
+Apr 10 11:04:45 server1 sshd[1499]: Failed password for invalid user guest from 8.8.8.8 port 54474 ssh2
+Apr 10 11:05:34 server1 sshd[1500]: Failed password for invalid user apache from 2606:4700:4700::1111 port 60936 ssh2
+Apr 10 11:06:33 server1 sshd[1501]: Failed password for invalid user ubuntu from 169.254.1.1 port 49899 ssh2
+Apr 10 11:07:03 server1 sshd[1502]: Failed password for invalid user postgres from 2001:db8::1 port 43494 ssh2
+Apr 10 11:07:38 server1 sshd[1503]: Failed password for invalid user qa from 2001:db8::1 port 58835 ssh2
+Apr 10 11:08:20 server1 sshd[1504]: Failed password for root from 45.67.89.101 port 61568 ssh2
+Apr 10 11:08:26 server1 sshd[1505]: Failed password for invalid user admin from 2606:4700:4700::1111 port 59870 ssh2
+Apr 10 11:09:34 server1 sshd[1506]: Failed password for invalid user test from 45.67.89.101 port 59892 ssh2
+Apr 10 11:10:24 server1 sshd[1507]: Failed password for invalid user support from 198.18.0.1 port 60345 ssh2
+Apr 10 11:11:01 server1 sshd[1508]: Failed password for invalid user mysql from 2001:db8:abcd:12::1 port 60586 ssh2
+Apr 10 11:11:18 server1 sshd[1509]: Failed password for invalid user admin from ::ffff:192.0.2.128 port 50123 ssh2
+Apr 10 11:12:19 server1 sshd[1510]: Failed password for invalid user qa from 10.0.0.5 port 63997 ssh2
+Apr 10 11:12:40 server1 sshd[1511]: Failed password for invalid user apache from 172.16.0.12 port 50705 ssh2
+Apr 10 11:13:38 server1 sshd[1512]: Failed password for invalid user support from 8.8.8.8 port 44330 ssh2
+Apr 10 11:14:52 server1 sshd[1513]: Failed password for invalid user web from 185.220.101.1 port 45391 ssh2
+Apr 10 11:15:29 server1 sshd[1514]: Failed password for invalid user apache from ::1 port 64463 ssh2
+Apr 10 11:16:17 server1 sshd[1515]: Failed password for invalid user ubuntu from 203.0.113.45 port 42467 ssh2
+Apr 10 11:16:40 server1 sshd[1516]: Failed password for invalid user deploy from 198.18.0.1 port 58262 ssh2
+Apr 10 11:17:31 server1 sshd[1517]: Failed password for invalid user deploy from 172.16.0.12 port 40456 ssh2
+Apr 10 11:18:09 server1 sshd[1518]: Failed password for invalid user oracle from fc00::1234 port 54902 ssh2
+Apr 10 11:19:01 server1 sshd[1519]: Failed password for invalid user web from 2001:db8:abcd:12::1 port 59154 ssh2
+Apr 10 11:19:54 server1 sshd[1520]: Failed password for invalid user qa from ::ffff:192.0.2.128 port 43550 ssh2
+Apr 10 11:20:28 server1 sshd[1521]: Failed password for invalid user root from ::1 port 60301 ssh2
+Apr 10 11:21:44 server1 sshd[1522]: Failed password for invalid user test from 91.198.174.192 port 61222 ssh2
+Apr 10 11:21:57 server1 sshd[1523]: Failed password for invalid user ubuntu from ::ffff:192.0.2.128 port 62972 ssh2
+Apr 10 11:22:40 server1 sshd[1524]: Failed password for invalid user ftp from ::ffff:192.0.2.128 port 43823 ssh2
+Apr 10 11:23:02 server1 sshd[1525]: Failed password for invalid user admin from 10.0.0.5 port 49973 ssh2
+Apr 10 11:24:10 server1 sshd[1526]: Failed password for invalid user oracle from 203.0.113.45 port 47693 ssh2
+Apr 10 11:25:23 server1 sshd[1527]: Failed password for invalid user deploy from 198.51.100.22 port 54864 ssh2
+Apr 10 11:26:15 server1 sshd[1528]: Failed password for invalid user ftp from 2001:db8:abcd:12::1 port 59245 ssh2
+Apr 10 11:26:39 server1 sshd[1529]: Failed password for invalid user oracle from 2001:db8:85a3::8a2e:370:7334 port 56034 ssh2
+Apr 10 11:28:02 server1 sshd[1530]: Failed password for invalid user web from 2001:db8:85a3::8a2e:370:7334 port 41072 ssh2
+Apr 10 11:28:54 server1 sshd[1531]: Failed password for invalid user ubuntu from 192.0.2.15 port 54571 ssh2
+Apr 10 11:29:29 server1 sshd[1532]: Failed password for invalid user oracle from 185.220.101.1 port 62468 ssh2
+Apr 10 11:30:21 server1 sshd[1533]: Failed password for invalid user qa from fc00::1234 port 41984 ssh2
+Apr 10 11:31:16 server1 sshd[1534]: Failed password for invalid user support from 169.254.1.1 port 44002 ssh2
+Apr 10 11:32:19 server1 sshd[1535]: Failed password for invalid user support from 172.16.0.12 port 61027 ssh2
+Apr 10 11:33:45 server1 sshd[1536]: Failed password for invalid user root from 2001:4860:4860::8888 port 41657 ssh2
+Apr 10 11:34:21 server1 sshd[1537]: Failed password for invalid user support from 198.51.100.22 port 42248 ssh2
+Apr 10 11:35:36 server1 sshd[1538]: Failed password for invalid user support from 192.0.2.15 port 47634 ssh2
+Apr 10 11:36:23 server1 sshd[1539]: Failed password for invalid user root from 198.51.100.22 port 49085 ssh2
+Apr 10 11:36:46 server1 sshd[1540]: Failed password for invalid user web from 198.51.100.22 port 45717 ssh2
+Apr 10 11:37:05 server1 sshd[1541]: Failed password for root from 2001:db8:abcd:12::1 port 44318 ssh2
+Apr 10 11:37:40 server1 sshd[1542]: Failed password for invalid user dev from 2606:4700:4700::1111 port 40517 ssh2
+Apr 10 11:38:07 server1 sshd[1543]: Failed password for invalid user admin from 169.254.1.1 port 44153 ssh2
+Apr 10 11:39:05 server1 sshd[1544]: Failed password for invalid user oracle from fd12:3456:789a:1::1 port 64433 ssh2
+Apr 10 11:39:18 server1 sshd[1545]: Failed password for invalid user ubuntu from ::1 port 51863 ssh2
+Apr 10 11:40:28 server1 sshd[1546]: Failed password for invalid user oracle from 2606:4700:4700::1111 port 54811 ssh2
+Apr 10 11:41:37 server1 sshd[1547]: Failed password for invalid user admin from 198.18.0.1 port 63830 ssh2
+Apr 10 11:43:06 server1 sshd[1548]: Failed password for invalid user apache from fd12:3456:789a:1::1 port 55009 ssh2
+Apr 10 11:44:33 server1 sshd[1549]: Failed password for invalid user admin from 192.168.1.10 port 55695 ssh2
+Apr 10 11:45:29 server1 sshd[1550]: Failed password for invalid user oracle from 2001:db8:85a3::8a2e:370:7334 port 56065 ssh2
+Apr 10 11:46:30 server1 sshd[1551]: Failed password for invalid user guest from 172.16.0.12 port 50554 ssh2
+Apr 10 11:47:52 server1 sshd[1552]: Failed password for invalid user guest from 198.51.100.22 port 44135 ssh2
+Apr 10 11:48:32 server1 sshd[1553]: Failed password for invalid user dev from 2001:4860:4860::8888 port 52481 ssh2
+Apr 10 11:49:53 server1 sshd[1554]: Failed password for invalid user apache from fd12:3456:789a:1::1 port 54867 ssh2
+Apr 10 11:51:02 server1 sshd[1555]: Failed password for invalid user ftp from 2001:4860:4860::8888 port 43249 ssh2
+Apr 10 11:51:21 server1 sshd[1556]: Failed password for invalid user support from ::ffff:192.0.2.128 port 54092 ssh2
+Apr 10 11:52:23 server1 sshd[1557]: Failed password for invalid user ftp from 198.18.0.1 port 51106 ssh2
+Apr 10 11:53:26 server1 sshd[1558]: Failed password for invalid user ftp from 2001:db8::1 port 63907 ssh2
+Apr 10 11:53:43 server1 sshd[1559]: Failed password for invalid user ftp from 91.198.174.192 port 50240 ssh2
+Apr 10 11:55:13 server1 sshd[1560]: Failed password for invalid user qa from 169.254.1.1 port 45001 ssh2
+Apr 10 11:56:18 server1 sshd[1561]: Failed password for invalid user guest from 172.16.0.12 port 42797 ssh2
+Apr 10 11:56:34 server1 sshd[1562]: Failed password for invalid user oracle from 2001:db8:85a3::8a2e:370:7334 port 64398 ssh2
+Apr 10 11:57:26 server1 sshd[1563]: Failed password for invalid user admin from 198.51.100.22 port 59217 ssh2
+Apr 10 11:58:42 server1 sshd[1564]: Failed password for invalid user dev from fc00::1234 port 61954 ssh2
+Apr 10 11:59:02 server1 sshd[1565]: Failed password for invalid user qa from 2001:db8:85a3::8a2e:370:7334 port 61801 ssh2
+Apr 10 12:00:01 server1 sshd[1566]: Failed password for invalid user apache from 10.0.0.5 port 59674 ssh2
+Apr 10 12:00:45 server1 sshd[1567]: Failed password for invalid user oracle from 185.220.101.1 port 58937 ssh2
+Apr 10 12:01:54 server1 sshd[1568]: Failed password for invalid user mysql from 192.0.2.15 port 61519 ssh2
+Apr 10 12:03:00 server1 sshd[1569]: Failed password for invalid user oracle from 198.18.0.1 port 51472 ssh2
+Apr 10 12:04:16 server1 sshd[1570]: Failed password for invalid user oracle from 185.220.101.1 port 64989 ssh2
+Apr 10 12:04:56 server1 sshd[1571]: Failed password for invalid user test from 2606:4700:4700::1111 port 54061 ssh2
+Apr 10 12:06:12 server1 sshd[1572]: Failed password for invalid user root from 2001:4860:4860::8888 port 59955 ssh2
+Apr 10 12:06:51 server1 sshd[1573]: Failed password for invalid user backup from 192.168.1.10 port 48954 ssh2
+Apr 10 12:07:35 server1 sshd[1574]: Failed password for invalid user qa from 91.198.174.192 port 40200 ssh2
+Apr 10 12:08:03 server1 sshd[1575]: Failed password for invalid user deploy from 198.51.100.22 port 42280 ssh2
+Apr 10 12:08:26 server1 sshd[1576]: Failed password for invalid user root from ::ffff:192.0.2.128 port 43006 ssh2
+Apr 10 12:08:58 server1 sshd[1577]: Failed password for invalid user ftp from 2001:db8::1 port 54865 ssh2
+Apr 10 12:09:46 server1 sshd[1578]: Failed password for invalid user qa from 8.8.8.8 port 50211 ssh2
+Apr 10 12:10:32 server1 sshd[1579]: Failed password for invalid user guest from 2606:4700:4700::1111 port 41723 ssh2
+Apr 10 12:10:56 server1 sshd[1580]: Failed password for invalid user admin from 8.8.8.8 port 62084 ssh2
+Apr 10 12:11:11 server1 sshd[1581]: Failed password for invalid user ubuntu from 169.254.1.1 port 61690 ssh2
+Apr 10 12:12:10 server1 sshd[1582]: Failed password for invalid user ubuntu from ::1 port 53571 ssh2
+Apr 10 12:12:49 server1 sshd[1583]: Failed password for invalid user oracle from 192.0.2.15 port 51310 ssh2
+Apr 10 12:13:49 server1 sshd[1584]: Failed password for invalid user apache from 203.0.113.45 port 62223 ssh2
+Apr 10 12:15:09 server1 sshd[1585]: Failed password for invalid user apache from ::1 port 41488 ssh2
+Apr 10 12:15:42 server1 sshd[1586]: Failed password for invalid user admin from 2001:db8::1 port 40251 ssh2
+Apr 10 12:16:13 server1 sshd[1587]: Failed password for invalid user support from 45.67.89.101 port 44496 ssh2
+Apr 10 12:16:50 server1 sshd[1588]: Failed password for invalid user dev from 45.67.89.101 port 43931 ssh2
+Apr 10 12:16:55 server1 sshd[1589]: Failed password for invalid user ftp from ::1 port 45757 ssh2
+Apr 10 12:17:16 server1 sshd[1590]: Failed password for invalid user test from 2001:db8::1 port 56392 ssh2
+Apr 10 12:18:32 server1 sshd[1591]: Failed password for invalid user qa from 2001:db8:abcd:12::1 port 42361 ssh2
+Apr 10 12:19:27 server1 sshd[1592]: Failed password for invalid user ftp from 10.0.0.5 port 40614 ssh2
+Apr 10 12:20:30 server1 sshd[1593]: Failed password for invalid user dev from 172.16.0.12 port 58866 ssh2
+Apr 10 12:21:29 server1 sshd[1594]: Failed password for invalid user deploy from 2606:4700:4700::1111 port 63248 ssh2
+Apr 10 12:22:55 server1 sshd[1595]: Failed password for invalid user apache from 2001:db8:85a3::8a2e:370:7334 port 43774 ssh2
+Apr 10 12:23:51 server1 sshd[1596]: Failed password for invalid user dev from 192.168.1.10 port 45631 ssh2
+Apr 10 12:25:15 server1 sshd[1597]: Failed password for invalid user qa from fe80::1ff:fe23:4567:890a port 42887 ssh2
+Apr 10 12:26:15 server1 sshd[1598]: Failed password for invalid user test from 203.0.113.45 port 54276 ssh2
+Apr 10 12:27:35 server1 sshd[1599]: Failed password for invalid user guest from 2001:db8::1 port 52968 ssh2
+Apr 10 12:28:19 server1 sshd[1600]: Failed password for invalid user test from 91.198.174.192 port 50913 ssh2
+Apr 10 12:28:45 server1 sshd[1601]: Failed password for invalid user oracle from 172.16.0.12 port 57386 ssh2
+Apr 10 12:29:55 server1 sshd[1602]: Failed password for invalid user qa from 192.0.2.15 port 51504 ssh2
+Apr 10 12:31:22 server1 sshd[1603]: Failed password for invalid user test from 198.51.100.22 port 43368 ssh2
+Apr 10 12:31:45 server1 sshd[1604]: Failed password for invalid user support from 169.254.1.1 port 45685 ssh2
+Apr 10 12:33:07 server1 sshd[1605]: Failed password for invalid user guest from 198.51.100.22 port 45804 ssh2
+Apr 10 12:34:32 server1 sshd[1606]: Failed password for invalid user ubuntu from ::1 port 64721 ssh2
+Apr 10 12:35:49 server1 sshd[1607]: Failed password for invalid user ubuntu from 2606:4700:4700::1111 port 62319 ssh2
+Apr 10 12:37:06 server1 sshd[1608]: Failed password for invalid user dev from ::ffff:192.0.2.128 port 60552 ssh2
+Apr 10 12:37:51 server1 sshd[1609]: Failed password for invalid user ubuntu from 198.51.100.22 port 42237 ssh2
+Apr 10 12:38:56 server1 sshd[1610]: Failed password for invalid user apache from fe80::1ff:fe23:4567:890a port 49000 ssh2
+Apr 10 12:40:16 server1 sshd[1611]: Failed password for invalid user qa from 10.0.0.5 port 56624 ssh2
+Apr 10 12:40:30 server1 sshd[1612]: Failed password for invalid user ubuntu from 45.67.89.101 port 54808 ssh2
+Apr 10 12:40:39 server1 sshd[1613]: Failed password for invalid user qa from 10.0.0.5 port 49406 ssh2
+Apr 10 12:40:53 server1 sshd[1614]: Failed password for invalid user guest from ::ffff:192.0.2.128 port 60152 ssh2
+Apr 10 12:42:14 server1 sshd[1615]: Failed password for invalid user deploy from fd12:3456:789a:1::1 port 55162 ssh2
+Apr 10 12:43:33 server1 sshd[1616]: Failed password for invalid user admin from fc00::1234 port 54736 ssh2
+Apr 10 12:44:51 server1 sshd[1617]: Failed password for invalid user support from ::ffff:192.0.2.128 port 50535 ssh2
+Apr 10 12:46:13 server1 sshd[1618]: Failed password for invalid user mysql from ::1 port 42027 ssh2
+Apr 10 12:47:15 server1 sshd[1619]: Failed password for invalid user dev from 203.0.113.45 port 63406 ssh2
+Apr 10 12:47:30 server1 sshd[1620]: Failed password for invalid user backup from fd12:3456:789a:1::1 port 41282 ssh2
+Apr 10 12:48:06 server1 sshd[1621]: Failed password for invalid user ubuntu from fe80::1ff:fe23:4567:890a port 57172 ssh2
+Apr 10 12:49:17 server1 sshd[1622]: Failed password for invalid user backup from 2001:4860:4860::8888 port 51924 ssh2
+Apr 10 12:50:09 server1 sshd[1623]: Failed password for invalid user deploy from 45.67.89.101 port 53394 ssh2
+Apr 10 12:50:57 server1 sshd[1624]: Failed password for invalid user admin from 2001:db8:abcd:12::1 port 60672 ssh2
+Apr 10 12:52:24 server1 sshd[1625]: Failed password for invalid user guest from 91.198.174.192 port 50803 ssh2
+Apr 10 12:52:41 server1 sshd[1626]: Failed password for invalid user deploy from fc00::1234 port 49310 ssh2
+Apr 10 12:53:18 server1 sshd[1627]: Failed password for invalid user mysql from 2001:db8:abcd:12::1 port 50923 ssh2
+Apr 10 12:53:33 server1 sshd[1628]: Failed password for invalid user mysql from 2606:4700:4700::1111 port 51462 ssh2
+Apr 10 12:54:17 server1 sshd[1629]: Failed password for invalid user deploy from ::ffff:192.0.2.128 port 44225 ssh2
+Apr 10 12:55:38 server1 sshd[1630]: Failed password for invalid user apache from 172.16.0.12 port 58314 ssh2
+Apr 10 12:56:31 server1 sshd[1631]: Failed password for invalid user dev from ::ffff:192.0.2.128 port 44187 ssh2
+Apr 10 12:58:01 server1 sshd[1632]: Failed password for invalid user guest from 2001:db8:abcd:12::1 port 61168 ssh2
+Apr 10 12:59:31 server1 sshd[1633]: Failed password for invalid user qa from 2001:db8:85a3::8a2e:370:7334 port 40597 ssh2
+Apr 10 13:00:22 server1 sshd[1634]: Failed password for invalid user backup from 45.67.89.101 port 47018 ssh2
+Apr 10 13:01:10 server1 sshd[1635]: Failed password for invalid user support from ::1 port 47423 ssh2
+Apr 10 13:01:32 server1 sshd[1636]: Failed password for invalid user guest from 198.51.100.22 port 49692 ssh2
+Apr 10 13:01:49 server1 sshd[1637]: Failed password for invalid user admin from fd12:3456:789a:1::1 port 61690 ssh2
+Apr 10 13:02:37 server1 sshd[1638]: Failed password for invalid user mysql from 2001:4860:4860::8888 port 59570 ssh2
+Apr 10 13:03:30 server1 sshd[1639]: Failed password for invalid user backup from 198.51.100.22 port 45925 ssh2
+Apr 10 13:04:54 server1 sshd[1640]: Failed password for invalid user ubuntu from 8.8.8.8 port 41431 ssh2
+Apr 10 13:05:51 server1 sshd[1641]: Failed password for invalid user test from 185.220.101.1 port 54555 ssh2
+Apr 10 13:07:14 server1 sshd[1642]: Failed password for invalid user ubuntu from 45.67.89.101 port 47667 ssh2
+Apr 10 13:08:27 server1 sshd[1643]: Failed password for invalid user apache from 198.18.0.1 port 55368 ssh2
+Apr 10 13:08:56 server1 sshd[1644]: Failed password for invalid user ubuntu from 185.220.101.1 port 55128 ssh2
+Apr 10 13:09:37 server1 sshd[1645]: Failed password for invalid user ftp from 2001:db8::1 port 45310 ssh2
+Apr 10 13:10:07 server1 sshd[1646]: Failed password for invalid user mysql from 2001:4860:4860::8888 port 48192 ssh2
+Apr 10 13:10:18 server1 sshd[1647]: Failed password for invalid user postgres from ::ffff:192.0.2.128 port 52163 ssh2
+Apr 10 13:11:33 server1 sshd[1648]: Failed password for invalid user oracle from 203.0.113.45 port 49340 ssh2
+Apr 10 13:11:48 server1 sshd[1649]: Failed password for invalid user web from 8.8.8.8 port 54723 ssh2
+Apr 10 13:13:03 server1 sshd[1650]: Accepted password for devops from 172.20.5.9 port 43005 ssh2
+Apr 10 13:13:41 server1 sshd[1651]: Accepted password for opsuser from 172.16.0.12 port 40873 ssh2
+Apr 10 13:14:44 server1 sshd[1652]: Accepted password for devops from 192.168.1.50 port 56449 ssh2
+Apr 10 13:15:41 server1 sshd[1653]: Accepted password for devops from 2001:db8::99 port 42674 ssh2
+Apr 10 13:16:38 server1 sshd[1654]: Accepted password for analyst from 2001:db8::99 port 50442 ssh2
+Apr 10 13:17:00 server1 sshd[1655]: Accepted password for student from 192.168.1.10 port 44508 ssh2
+Apr 10 13:17:14 server1 sshd[1656]: Accepted password for devops from fd00::50 port 62808 ssh2
+Apr 10 13:19:10 server1 sshd[1657]: Accepted password for devops from 172.20.5.9 port 54699 ssh2
+Apr 10 13:20:38 server1 sshd[1658]: Accepted password for analyst from 192.168.1.50 port 40622 ssh2
+Apr 10 13:21:20 server1 sshd[1659]: Accepted password for student from 2001:db8::99 port 57983 ssh2
+Apr 10 13:23:03 server1 sshd[1660]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 43643 ssh2
+Apr 10 13:24:52 server1 sshd[1661]: Accepted password for student from fd00::50 port 49868 ssh2
+Apr 10 13:25:17 server1 sshd[1662]: Accepted password for student from 192.168.1.50 port 53756 ssh2
+Apr 10 13:26:48 server1 sshd[1663]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 42058 ssh2
+Apr 10 13:27:12 server1 sshd[1664]: Accepted password for analyst from 172.16.0.12 port 60707 ssh2
+Apr 10 13:28:27 server1 sshd[1665]: Accepted password for student from 2001:db8:85a3::8a2e:370:7334 port 63545 ssh2
+Apr 10 13:28:55 server1 sshd[1666]: Accepted password for devops from fd00::50 port 40051 ssh2
+Apr 10 13:30:23 server1 sshd[1667]: Accepted password for student from 192.168.1.10 port 58699 ssh2
+Apr 10 13:31:26 server1 sshd[1668]: Accepted password for analyst from 172.20.5.9 port 57153 ssh2
+Apr 10 13:32:22 server1 sshd[1669]: Accepted password for analyst from 10.10.10.20 port 52794 ssh2
+Apr 10 13:33:32 server1 sshd[1670]: Accepted password for devops from 192.168.1.50 port 52232 ssh2
+Apr 10 13:34:14 server1 sshd[1671]: Accepted password for opsuser from 192.168.1.50 port 42213 ssh2
+Apr 10 13:35:08 server1 sshd[1672]: Accepted password for analyst from 2001:db8::99 port 59067 ssh2
+Apr 10 13:36:52 server1 sshd[1673]: Accepted password for student from 192.168.1.10 port 41452 ssh2
+Apr 10 13:37:47 server1 sshd[1674]: Accepted password for opsuser from 2001:db8::1 port 61063 ssh2
+Apr 10 13:38:19 server1 sshd[1675]: Accepted password for devops from 172.16.0.12 port 60700 ssh2
+Apr 10 13:38:52 server1 sshd[1676]: Accepted password for analyst from 172.20.5.9 port 63463 ssh2
+Apr 10 13:40:41 server1 sshd[1677]: Accepted password for analyst from 172.16.0.12 port 49615 ssh2
+Apr 10 13:41:16 server1 sshd[1678]: Accepted password for student from 192.168.1.50 port 41373 ssh2
+Apr 10 13:42:06 server1 sshd[1679]: Accepted password for devops from fd00::50 port 57794 ssh2
+Apr 10 13:43:16 server1 sshd[1680]: Accepted password for analyst from fd00::50 port 64683 ssh2
+Apr 10 13:44:48 server1 sshd[1681]: Accepted password for opsuser from 2001:db8::99 port 51697 ssh2
+Apr 10 13:46:48 server1 sshd[1682]: Accepted password for opsuser from 192.168.1.50 port 48952 ssh2
+Apr 10 13:47:13 server1 sshd[1683]: Accepted password for devops from 192.168.1.10 port 53107 ssh2
+Apr 10 13:48:58 server1 sshd[1684]: Accepted password for devops from 172.16.0.12 port 51109 ssh2
+Apr 10 13:49:31 server1 sshd[1685]: Accepted password for devops from 172.16.0.12 port 52037 ssh2
+Apr 10 13:51:23 server1 sshd[1686]: Accepted password for opsuser from 2001:db8::1 port 42707 ssh2
+Apr 10 13:53:06 server1 sshd[1687]: Accepted password for analyst from 10.0.0.5 port 54110 ssh2
+Apr 10 13:54:33 server1 sshd[1688]: Accepted password for opsuser from 172.20.5.9 port 50525 ssh2
+Apr 10 13:54:56 server1 sshd[1689]: Accepted password for opsuser from 10.10.10.20 port 61657 ssh2
+Apr 10 13:55:43 server1 sshd[1690]: Accepted password for devops from fd00::50 port 59746 ssh2
+Apr 10 13:57:24 server1 sshd[1691]: Accepted password for student from 10.0.0.5 port 62602 ssh2
+Apr 10 13:58:30 server1 sshd[1692]: Accepted password for devops from 192.168.1.10 port 41387 ssh2
+Apr 10 14:00:13 server1 sshd[1693]: Accepted password for devops from 192.168.1.10 port 48996 ssh2
+Apr 10 14:01:44 server1 sshd[1694]: Accepted password for analyst from 192.168.1.50 port 61993 ssh2
+Apr 10 14:03:15 server1 sshd[1695]: Accepted password for opsuser from 10.0.0.5 port 56812 ssh2
+Apr 10 14:05:07 server1 sshd[1696]: Accepted password for analyst from 172.20.5.9 port 44678 ssh2
+Apr 10 14:07:05 server1 sshd[1697]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 41140 ssh2
+Apr 10 14:07:31 server1 sshd[1698]: Accepted password for student from 10.10.10.20 port 61140 ssh2
+Apr 10 14:08:27 server1 sshd[1699]: Accepted password for devops from 192.168.1.10 port 58587 ssh2
+Apr 10 14:08:41 server1 sshd[1700]: Accepted password for student from 2001:db8:85a3::8a2e:370:7334 port 62251 ssh2
+Apr 10 14:09:48 server1 sshd[1701]: Accepted password for opsuser from 192.168.1.10 port 54547 ssh2
+Apr 10 14:11:35 server1 sshd[1702]: Accepted password for student from 10.10.10.20 port 57349 ssh2
+Apr 10 14:12:31 server1 sshd[1703]: Accepted password for opsuser from 10.0.0.5 port 61284 ssh2
+Apr 10 14:13:16 server1 sshd[1704]: Accepted password for analyst from 2001:db8::99 port 40849 ssh2
+Apr 10 14:15:00 server1 sshd[1705]: Accepted password for devops from 172.20.5.9 port 56965 ssh2
+Apr 10 14:15:59 server1 sshd[1706]: Accepted password for analyst from 2001:db8::1 port 48577 ssh2
+Apr 10 14:17:48 server1 sshd[1707]: Accepted password for devops from fd00::50 port 47031 ssh2
+Apr 10 14:19:16 server1 sshd[1708]: Accepted password for devops from fd00::50 port 46559 ssh2
+Apr 10 14:19:41 server1 sshd[1709]: Accepted password for analyst from 172.20.5.9 port 54812 ssh2
+Apr 10 14:20:13 server1 sshd[1710]: Accepted password for analyst from 172.16.0.12 port 62345 ssh2
+Apr 10 14:22:11 server1 sshd[1711]: Accepted password for opsuser from 192.168.1.10 port 63250 ssh2
+Apr 10 14:22:29 server1 sshd[1712]: Accepted password for opsuser from 2001:db8::1 port 49828 ssh2
+Apr 10 14:24:27 server1 sshd[1713]: Accepted password for student from 172.20.5.9 port 51845 ssh2
+Apr 10 14:25:42 server1 sshd[1714]: Accepted password for analyst from 2001:db8::99 port 46585 ssh2
+Apr 10 14:27:33 server1 sshd[1715]: Accepted password for student from 172.20.5.9 port 56188 ssh2
+Apr 10 14:27:46 server1 sshd[1716]: Accepted password for opsuser from 192.168.1.10 port 55315 ssh2
+Apr 10 14:29:38 server1 sshd[1717]: Accepted password for student from 2001:db8::1 port 60052 ssh2
+Apr 10 14:29:59 server1 sshd[1718]: Accepted password for opsuser from 10.10.10.20 port 53046 ssh2
+Apr 10 14:31:40 server1 sshd[1719]: Accepted password for devops from 172.16.0.12 port 53416 ssh2
+Apr 10 14:33:35 server1 sshd[1720]: Accepted password for analyst from 2001:db8:85a3::8a2e:370:7334 port 44106 ssh2
+Apr 10 14:34:25 server1 sshd[1721]: Accepted password for devops from 10.10.10.20 port 55264 ssh2
+Apr 10 14:36:02 server1 sshd[1722]: Accepted password for opsuser from 2001:db8::1 port 44205 ssh2
+Apr 10 14:37:58 server1 sshd[1723]: Accepted password for student from 2001:db8::1 port 44228 ssh2
+Apr 10 14:39:03 server1 sshd[1724]: Accepted password for analyst from 2001:db8::1 port 44068 ssh2
+Apr 10 14:40:19 server1 sshd[1725]: Accepted password for opsuser from 172.20.5.9 port 45395 ssh2
+Apr 10 14:40:49 server1 sshd[1726]: Accepted password for student from 192.168.1.10 port 51338 ssh2
+Apr 10 14:42:05 server1 sshd[1727]: Accepted password for analyst from fd00::50 port 48211 ssh2
+Apr 10 14:42:40 server1 sshd[1728]: Accepted password for opsuser from 2001:db8::1 port 44101 ssh2
+Apr 10 14:44:10 server1 sshd[1729]: Accepted password for analyst from fd00::50 port 56468 ssh2
+Apr 10 14:45:42 server1 sshd[1730]: Accepted password for student from 172.20.5.9 port 45609 ssh2
+Apr 10 14:47:16 server1 sshd[1731]: Accepted password for opsuser from 2001:db8:85a3::8a2e:370:7334 port 58468 ssh2
+Apr 10 14:47:31 server1 sshd[1732]: Accepted password for analyst from 192.168.1.50 port 41489 ssh2
+Apr 10 14:49:03 server1 sshd[1733]: Accepted password for opsuser from 2001:db8:85a3::8a2e:370:7334 port 61336 ssh2
+Apr 10 14:49:39 server1 sshd[1734]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 60254 ssh2
+Apr 10 14:51:10 server1 sshd[1735]: Accepted password for devops from 192.168.1.50 port 60550 ssh2
+Apr 10 14:52:29 server1 sshd[1736]: Accepted password for opsuser from fd00::50 port 55825 ssh2
+Apr 10 14:53:10 server1 sshd[1737]: Accepted password for opsuser from 10.0.0.5 port 54861 ssh2
+Apr 10 14:53:29 server1 sshd[1738]: Accepted password for student from 192.168.1.50 port 54404 ssh2
+Apr 10 14:54:32 server1 sshd[1739]: Accepted password for devops from 172.16.0.12 port 46685 ssh2
+Apr 10 14:55:25 server1 sshd[1740]: Accepted password for student from 2001:db8:85a3::8a2e:370:7334 port 50242 ssh2
+Apr 10 14:57:25 server1 sshd[1741]: Accepted password for opsuser from 192.168.1.10 port 53065 ssh2
+Apr 10 14:57:51 server1 sshd[1742]: Accepted password for analyst from 192.168.1.10 port 50456 ssh2
+Apr 10 14:58:31 server1 sshd[1743]: Accepted password for analyst from 172.16.0.12 port 48764 ssh2
+Apr 10 14:59:38 server1 sshd[1744]: Accepted password for student from 2001:db8::99 port 43172 ssh2
+Apr 10 14:59:54 server1 sshd[1745]: Accepted password for devops from fd00::50 port 60164 ssh2
+Apr 10 15:00:57 server1 sshd[1746]: Accepted password for student from 2001:db8::99 port 50729 ssh2
+Apr 10 15:02:20 server1 sshd[1747]: Accepted password for student from 192.168.1.10 port 45221 ssh2
+Apr 10 15:03:33 server1 sshd[1748]: Accepted password for devops from 2001:db8::1 port 56343 ssh2
+Apr 10 15:04:22 server1 sshd[1749]: Accepted password for analyst from 172.16.0.12 port 42950 ssh2
+Apr 10 15:05:22 server1 sshd[1750]: Accepted password for devops from 2001:db8::1 port 47888 ssh2
+Apr 10 15:05:59 server1 sshd[1751]: Accepted password for opsuser from 2001:db8:85a3::8a2e:370:7334 port 41594 ssh2
+Apr 10 15:06:15 server1 sshd[1752]: Accepted password for devops from fd00::50 port 59579 ssh2
+Apr 10 15:08:12 server1 sshd[1753]: Accepted password for opsuser from 172.16.0.12 port 57586 ssh2
+Apr 10 15:08:23 server1 sshd[1754]: Accepted password for devops from 10.10.10.20 port 44388 ssh2
+Apr 10 15:09:06 server1 sshd[1755]: Accepted password for devops from 192.168.1.10 port 51991 ssh2
+Apr 10 15:09:21 server1 sshd[1756]: Accepted password for analyst from 10.0.0.5 port 58686 ssh2
+Apr 10 15:10:42 server1 sshd[1757]: Accepted password for opsuser from 2001:db8::99 port 58128 ssh2
+Apr 10 15:11:28 server1 sshd[1758]: Accepted password for devops from 10.10.10.20 port 56523 ssh2
+Apr 10 15:12:35 server1 sshd[1759]: Accepted password for opsuser from 2001:db8::1 port 60422 ssh2
+Apr 10 15:14:12 server1 sshd[1760]: Accepted password for analyst from 2001:db8:85a3::8a2e:370:7334 port 44216 ssh2
+Apr 10 15:14:34 server1 sshd[1761]: Accepted password for opsuser from 10.0.0.5 port 51111 ssh2
+Apr 10 15:15:55 server1 sshd[1762]: Accepted password for student from 192.168.1.10 port 46522 ssh2
+Apr 10 15:17:22 server1 sshd[1763]: Accepted password for devops from 2001:db8::1 port 56386 ssh2
+Apr 10 15:17:37 server1 sshd[1764]: Accepted password for analyst from 192.168.1.50 port 44490 ssh2
+Apr 10 15:19:18 server1 sshd[1765]: Accepted password for devops from 192.168.1.10 port 57017 ssh2
+Apr 10 15:20:26 server1 sshd[1766]: Accepted password for student from 172.20.5.9 port 50746 ssh2
+Apr 10 15:21:54 server1 sshd[1767]: Accepted password for student from 192.168.1.10 port 52876 ssh2
+Apr 10 15:23:22 server1 sshd[1768]: Accepted password for opsuser from fd00::50 port 56623 ssh2
+Apr 10 15:25:18 server1 sshd[1769]: Accepted password for devops from 2001:db8::1 port 63223 ssh2
+Apr 10 15:26:40 server1 sshd[1770]: Accepted password for devops from fd00::50 port 40545 ssh2
+Apr 10 15:27:37 server1 sshd[1771]: Accepted password for analyst from 192.168.1.10 port 53649 ssh2
+Apr 10 15:29:01 server1 sshd[1772]: Accepted password for analyst from fd00::50 port 59559 ssh2
+Apr 10 15:30:11 server1 sshd[1773]: Accepted password for student from fd00::50 port 63638 ssh2
+Apr 10 15:30:27 server1 sshd[1774]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 45587 ssh2
+Apr 10 15:31:44 server1 sshd[1775]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 44842 ssh2
+Apr 10 15:33:39 server1 sshd[1776]: Accepted password for analyst from 2001:db8::99 port 58761 ssh2
+Apr 10 15:35:18 server1 sshd[1777]: Accepted password for student from 10.10.10.20 port 40620 ssh2
+Apr 10 15:36:24 server1 sshd[1778]: Accepted password for devops from 192.168.1.10 port 44962 ssh2
+Apr 10 15:37:26 server1 sshd[1779]: Accepted password for devops from 2001:db8::99 port 56443 ssh2
+Apr 10 15:39:15 server1 sshd[1780]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 64111 ssh2
+Apr 10 15:40:58 server1 sshd[1781]: Accepted password for student from 192.168.1.50 port 56996 ssh2
+Apr 10 15:41:34 server1 sshd[1782]: Accepted password for opsuser from 2001:db8::1 port 61699 ssh2
+Apr 10 15:42:45 server1 sshd[1783]: Accepted password for devops from 2001:db8::1 port 50281 ssh2
+Apr 10 15:43:17 server1 sshd[1784]: Accepted password for opsuser from 172.16.0.12 port 57900 ssh2
+Apr 10 15:44:12 server1 sshd[1785]: Accepted password for devops from fd00::50 port 46300 ssh2
+Apr 10 15:44:53 server1 sshd[1786]: Accepted password for opsuser from fd00::50 port 47368 ssh2
+Apr 10 15:45:41 server1 sshd[1787]: Accepted password for student from fd00::50 port 62617 ssh2
+Apr 10 15:47:21 server1 sshd[1788]: Accepted password for opsuser from 172.16.0.12 port 55722 ssh2
+Apr 10 15:48:15 server1 sshd[1789]: Accepted password for opsuser from 2001:db8::1 port 49430 ssh2
+Apr 10 15:48:40 server1 sshd[1790]: Accepted password for devops from 2001:db8:85a3::8a2e:370:7334 port 52928 ssh2
+Apr 10 15:50:34 server1 sshd[1791]: Accepted password for student from 192.168.1.10 port 49517 ssh2
+Apr 10 15:50:49 server1 sshd[1792]: Accepted password for analyst from fd00::50 port 51349 ssh2
+Apr 10 15:51:55 server1 sshd[1793]: Accepted password for devops from fd00::50 port 47011 ssh2
+Apr 10 15:52:30 server1 sshd[1794]: Accepted password for opsuser from 2001:db8::1 port 58416 ssh2
+Apr 10 15:54:09 server1 sshd[1795]: Accepted password for student from fd00::50 port 43579 ssh2
+Apr 10 15:55:37 server1 sshd[1796]: Accepted password for student from 2001:db8:85a3::8a2e:370:7334 port 47944 ssh2
+Apr 10 15:55:53 server1 sshd[1797]: Accepted password for student from 2001:db8::1 port 60904 ssh2
+Apr 10 15:56:32 server1 sshd[1798]: Accepted password for analyst from 192.168.1.50 port 53543 ssh2
+Apr 10 15:57:24 server1 sshd[1799]: Accepted password for analyst from 172.16.0.12 port 62321 ssh2
+Apr 10 15:58:18 server1 sshd[1800]: Connection closed by authenticating user student 198.51.100.22 port 40169 [preauth]
+Apr 10 15:59:04 server1 sshd[1801]: Connection closed by authenticating user devops ::1 port 55645 [preauth]
+Apr 10 15:59:29 server1 sshd[1802]: Received disconnect from 45.67.89.101 port 61164:11: Bye Bye [preauth]
+Apr 10 16:00:08 server1 sshd[1803]: Connection closed by authenticating user admin 10.10.10.20 port 63695 [preauth]
+Apr 10 16:01:06 server1 sshd[1804]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=8.8.8.8 user=deploy
+Apr 10 16:01:58 server1 sshd[1805]: Invalid user root from 45.67.89.101 port 41227
+Apr 10 16:02:24 server1 sshd[1806]: error: maximum authentication attempts exceeded for invalid user devops from 45.67.89.101 port 54888 ssh2 [preauth]
+Apr 10 16:02:37 server1 sshd[1807]: Connection closed by authenticating user web fd12:3456:789a:1::1 port 55336 [preauth]
+Apr 10 16:03:03 server1 sshd[1808]: Invalid user ubuntu from 8.8.8.8 port 63957
+Apr 10 16:03:08 server1 sshd[1809]: error: maximum authentication attempts exceeded for invalid user apache from 10.10.10.20 port 51046 ssh2 [preauth]
+Apr 10 16:03:24 server1 sshd[1810]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:4860:4860::8888 user=deploy
+Apr 10 16:03:34 server1 sshd[1811]: Connection closed by authenticating user oracle 2001:db8::1 port 61930 [preauth]
+Apr 10 16:04:09 server1 sshd[1812]: Invalid user root from 91.198.174.192 port 48128
+Apr 10 16:04:29 server1 sshd[1813]: Invalid user web from fe80::1ff:fe23:4567:890a port 64699
+Apr 10 16:05:11 server1 sshd[1814]: Invalid user root from 10.10.10.20 port 58772
+Apr 10 16:06:00 server1 sshd[1815]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.18.0.1 user=oracle
+Apr 10 16:06:15 server1 sshd[1816]: Invalid user analyst from 2001:db8::1 port 62481
+Apr 10 16:07:00 server1 sshd[1817]: Connection closed by authenticating user secadmin 45.67.89.101 port 52043 [preauth]
+Apr 10 16:07:13 server1 sshd[1818]: error: maximum authentication attempts exceeded for invalid user ubuntu from ::1 port 45019 ssh2 [preauth]
+Apr 10 16:07:44 server1 sshd[1819]: error: maximum authentication attempts exceeded for invalid user postgres from 192.168.1.50 port 57997 ssh2 [preauth]
+Apr 10 16:08:37 server1 sshd[1820]: Received disconnect from 198.18.0.1 port 62293:11: Bye Bye [preauth]
+Apr 10 16:09:15 server1 sshd[1821]: error: maximum authentication attempts exceeded for invalid user guest from 192.168.1.50 port 51854 ssh2 [preauth]
+Apr 10 16:09:23 server1 sshd[1822]: Connection closed by authenticating user analyst fd00::50 port 57945 [preauth]
+Apr 10 16:09:38 server1 sshd[1823]: Received disconnect from 91.198.174.192 port 57050:11: Bye Bye [preauth]
+Apr 10 16:10:28 server1 sshd[1824]: error: maximum authentication attempts exceeded for invalid user guest from 2606:4700:4700::1111 port 56017 ssh2 [preauth]
+Apr 10 16:11:24 server1 sshd[1825]: error: maximum authentication attempts exceeded for invalid user mysql from 10.0.0.5 port 54858 ssh2 [preauth]
+Apr 10 16:11:58 server1 sshd[1826]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2606:4700:4700::1111 user=student
+Apr 10 16:12:49 server1 sshd[1827]: Received disconnect from 192.168.1.10 port 52974:11: Bye Bye [preauth]
+Apr 10 16:13:31 server1 sshd[1828]: Invalid user ftp from 172.16.0.12 port 41484
+Apr 10 16:14:10 server1 sshd[1829]: Received disconnect from 10.0.0.5 port 42261:11: Bye Bye [preauth]
+Apr 10 16:14:41 server1 sshd[1830]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=8.8.8.8 user=devops
+Apr 10 16:15:10 server1 sshd[1831]: Received disconnect from fe80::1ff:fe23:4567:890a port 52369:11: Bye Bye [preauth]
+Apr 10 16:15:56 server1 sshd[1832]: error: maximum authentication attempts exceeded for invalid user backup from 185.220.101.1 port 43887 ssh2 [preauth]
+Apr 10 16:16:34 server1 sshd[1833]: Received disconnect from 198.51.100.22 port 63850:11: Bye Bye [preauth]
+Apr 10 16:16:58 server1 sshd[1834]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80::1ff:fe23:4567:890a user=student
+Apr 10 16:17:55 server1 sshd[1835]: Invalid user ubuntu from 198.18.0.1 port 48110
+Apr 10 16:18:17 server1 sshd[1836]: Received disconnect from 192.0.2.15 port 63757:11: Bye Bye [preauth]
+Apr 10 16:19:01 server1 sshd[1837]: Connection closed by authenticating user test 172.20.5.9 port 40512 [preauth]
+Apr 10 16:19:12 server1 sshd[1838]: error: maximum authentication attempts exceeded for invalid user ubuntu from 2001:4860:4860::8888 port 41100 ssh2 [preauth]
+Apr 10 16:19:32 server1 sshd[1839]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.10.10.20 user=deploy
+Apr 10 16:20:11 server1 sshd[1840]: Connection closed by authenticating user admin 192.0.2.15 port 64719 [preauth]
+Apr 10 16:20:30 server1 sshd[1841]: Invalid user opsuser from fd00::50 port 63970
+Apr 10 16:20:50 server1 sshd[1842]: Connection closed by authenticating user analyst 45.67.89.101 port 44694 [preauth]
+Apr 10 16:21:14 server1 sshd[1843]: error: maximum authentication attempts exceeded for invalid user student from 169.254.1.1 port 41997 ssh2 [preauth]
+Apr 10 16:21:59 server1 sshd[1844]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:db8:abcd:12::1 user=student
+Apr 10 16:22:26 server1 sshd[1845]: error: maximum authentication attempts exceeded for invalid user deploy from ::ffff:192.0.2.128 port 61998 ssh2 [preauth]
+Apr 10 16:23:15 server1 sshd[1846]: Invalid user mysql from 2001:db8:85a3::8a2e:370:7334 port 53377
+Apr 10 16:23:31 server1 sshd[1847]: Connection closed by authenticating user postgres 172.20.5.9 port 57626 [preauth]
+Apr 10 16:23:55 server1 sshd[1848]: Received disconnect from 192.168.1.50 port 44730:11: Bye Bye [preauth]
+Apr 10 16:24:26 server1 sshd[1849]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=fc00::1234 user=mysql
+Apr 10 16:24:47 server1 sshd[1850]: Received disconnect from 192.0.2.15 port 50822:11: Bye Bye [preauth]
+Apr 10 16:25:46 server1 sshd[1851]: Connection closed by authenticating user student 185.220.101.1 port 43029 [preauth]
+Apr 10 16:26:08 server1 sshd[1852]: error: maximum authentication attempts exceeded for invalid user secadmin from 2001:db8::1 port 62074 ssh2 [preauth]
+Apr 10 16:27:08 server1 sshd[1853]: error: maximum authentication attempts exceeded for invalid user opsuser from 172.16.0.12 port 46165 ssh2 [preauth]
+Apr 10 16:27:43 server1 sshd[1854]: Received disconnect from 192.0.2.15 port 50910:11: Bye Bye [preauth]
+Apr 10 16:28:00 server1 sshd[1855]: Connection closed by authenticating user postgres 10.10.10.20 port 43844 [preauth]
+Apr 10 16:28:30 server1 sshd[1856]: Invalid user dev from 198.18.0.1 port 58090
+Apr 10 16:29:04 server1 sshd[1857]: Invalid user qa from fc00::1234 port 61257
+Apr 10 16:29:32 server1 sshd[1858]: Received disconnect from fd12:3456:789a:1::1 port 56294:11: Bye Bye [preauth]
+Apr 10 16:30:25 server1 sshd[1859]: Invalid user support from fd00::50 port 50493
+Apr 10 16:30:56 server1 sshd[1860]: Connection closed by authenticating user test 10.0.0.5 port 58432 [preauth]
+Apr 10 16:31:17 server1 sshd[1861]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=fc00::1234 user=opsuser
+Apr 10 16:31:31 server1 sshd[1862]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.0.2.15 user=test
+Apr 10 16:32:07 server1 sshd[1863]: Invalid user dev from fc00::1234 port 61450
+Apr 10 16:32:58 server1 sshd[1864]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::ffff:192.0.2.128 user=postgres
+Apr 10 16:33:49 server1 sshd[1865]: Connection closed by authenticating user backup 2001:db8::99 port 51540 [preauth]
+Apr 10 16:34:05 server1 sshd[1866]: error: maximum authentication attempts exceeded for invalid user admin from fc00::1234 port 61030 ssh2 [preauth]
+Apr 10 16:35:03 server1 sshd[1867]: Received disconnect from 172.16.0.12 port 61896:11: Bye Bye [preauth]
+Apr 10 16:35:16 server1 sshd[1868]: Received disconnect from fd00::50 port 60666:11: Bye Bye [preauth]
+Apr 10 16:35:21 server1 sshd[1869]: Invalid user ubuntu from 192.0.2.15 port 56571
+Apr 10 16:36:05 server1 sshd[1870]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::ffff:192.0.2.128 user=secadmin
+Apr 10 16:36:11 server1 sshd[1871]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.10 user=student
+Apr 10 16:36:17 server1 sshd[1872]: error: maximum authentication attempts exceeded for invalid user web from fd12:3456:789a:1::1 port 63664 ssh2 [preauth]
+Apr 10 16:36:23 server1 sshd[1873]: Connection closed by authenticating user ftp fd12:3456:789a:1::1 port 62867 [preauth]
+Apr 10 16:36:34 server1 sshd[1874]: Connection closed by authenticating user test fd12:3456:789a:1::1 port 44879 [preauth]
+Apr 10 16:37:31 server1 sshd[1875]: Received disconnect from 185.220.101.1 port 48759:11: Bye Bye [preauth]
+Apr 10 16:38:01 server1 sshd[1876]: Connection closed by authenticating user test fe80::1ff:fe23:4567:890a port 58513 [preauth]
+Apr 10 16:38:49 server1 sshd[1877]: Received disconnect from fd00::50 port 42641:11: Bye Bye [preauth]
+Apr 10 16:39:19 server1 sshd[1878]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:db8::1 user=student
+Apr 10 16:40:04 server1 sshd[1879]: Received disconnect from 192.168.1.10 port 63030:11: Bye Bye [preauth]
+Apr 10 16:41:03 server1 sshd[1880]: error: maximum authentication attempts exceeded for invalid user dev from 2001:db8:85a3::8a2e:370:7334 port 61132 ssh2 [preauth]
+Apr 10 16:41:41 server1 sshd[1881]: error: maximum authentication attempts exceeded for invalid user support from 10.0.0.5 port 47528 ssh2 [preauth]
+Apr 10 16:42:03 server1 sshd[1882]: error: maximum authentication attempts exceeded for invalid user web from 10.0.0.5 port 42436 ssh2 [preauth]
+Apr 10 16:42:19 server1 sshd[1883]: error: maximum authentication attempts exceeded for invalid user support from 91.198.174.192 port 40513 ssh2 [preauth]
+Apr 10 16:43:12 server1 sshd[1884]: Received disconnect from fd00::50 port 63354:11: Bye Bye [preauth]
+Apr 10 16:43:27 server1 sshd[1885]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2606:4700:4700::1111 user=opsuser
+Apr 10 16:43:56 server1 sshd[1886]: Received disconnect from 172.20.5.9 port 64239:11: Bye Bye [preauth]
+Apr 10 16:44:04 server1 sshd[1887]: Received disconnect from 203.0.113.45 port 54322:11: Bye Bye [preauth]
+Apr 10 16:44:47 server1 sshd[1888]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.20.5.9 user=secadmin
+Apr 10 16:44:53 server1 sshd[1889]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::ffff:192.0.2.128 user=ubuntu
+Apr 10 16:45:20 server1 sshd[1890]: Connection closed by authenticating user ftp fc00::1234 port 52301 [preauth]
+Apr 10 16:45:30 server1 sshd[1891]: Connection closed by authenticating user apache 172.20.5.9 port 60270 [preauth]
+Apr 10 16:45:40 server1 sshd[1892]: Connection closed by authenticating user deploy 169.254.1.1 port 45053 [preauth]
+Apr 10 16:46:05 server1 sshd[1893]: Received disconnect from 185.220.101.1 port 43491:11: Bye Bye [preauth]
+Apr 10 16:46:38 server1 sshd[1894]: Received disconnect from 185.220.101.1 port 64947:11: Bye Bye [preauth]
+Apr 10 16:46:48 server1 sshd[1895]: error: maximum authentication attempts exceeded for invalid user ubuntu from 8.8.8.8 port 54122 ssh2 [preauth]
+Apr 10 16:46:59 server1 sshd[1896]: error: maximum authentication attempts exceeded for invalid user qa from 192.168.1.10 port 42936 ssh2 [preauth]
+Apr 10 16:47:42 server1 sshd[1897]: Received disconnect from 2001:4860:4860::8888 port 50630:11: Bye Bye [preauth]
+Apr 10 16:48:13 server1 sshd[1898]: Connection closed by authenticating user student 2001:db8::1 port 42775 [preauth]
+Apr 10 16:49:01 server1 sshd[1899]: Invalid user mysql from 2001:db8::1 port 45554
+Apr 10 16:49:23 server1 sshd[1900]: Connection closed by authenticating user guest ::1 port 44781 [preauth]
+Apr 10 16:49:45 server1 sshd[1901]: Received disconnect from 2001:db8:85a3::8a2e:370:7334 port 49822:11: Bye Bye [preauth]
+Apr 10 16:50:06 server1 sshd[1902]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.18.0.1 user=devops
+Apr 10 16:50:40 server1 sshd[1903]: Received disconnect from 203.0.113.45 port 44439:11: Bye Bye [preauth]
+Apr 10 16:51:06 server1 sshd[1904]: Invalid user deploy from fd00::50 port 60322
+Apr 10 16:51:32 server1 sshd[1905]: Connection closed by authenticating user secadmin 2001:db8:85a3::8a2e:370:7334 port 61333 [preauth]
+Apr 10 16:51:57 server1 sshd[1906]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:4860:4860::8888 user=support
+Apr 10 16:52:13 server1 sshd[1907]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:db8::1 user=apache
+Apr 10 16:52:38 server1 sshd[1908]: Invalid user deploy from 2001:db8::1 port 49184
+Apr 10 16:53:19 server1 sshd[1909]: Connection closed by authenticating user student 192.0.2.15 port 59406 [preauth]
+Apr 10 16:54:10 server1 sshd[1910]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80::1ff:fe23:4567:890a user=support
+Apr 10 16:55:08 server1 sshd[1911]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50 user=ftp
+Apr 10 16:55:53 server1 sshd[1912]: Connection closed by authenticating user web 45.67.89.101 port 47930 [preauth]
+Apr 10 16:56:48 server1 sshd[1913]: error: maximum authentication attempts exceeded for invalid user ubuntu from 2001:db8::1 port 42423 ssh2 [preauth]
+Apr 10 16:57:30 server1 sshd[1914]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:db8::1 user=analyst
+Apr 10 16:58:25 server1 sshd[1915]: error: maximum authentication attempts exceeded for invalid user student from 185.220.101.1 port 62991 ssh2 [preauth]
+Apr 10 16:58:36 server1 sshd[1916]: Connection closed by authenticating user qa 172.20.5.9 port 48134 [preauth]
+Apr 10 16:59:17 server1 sshd[1917]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::ffff:192.0.2.128 user=devops
+Apr 10 17:00:12 server1 sshd[1918]: Received disconnect from 2001:db8:85a3::8a2e:370:7334 port 43471:11: Bye Bye [preauth]
+Apr 10 17:00:31 server1 sshd[1919]: error: maximum authentication attempts exceeded for invalid user analyst from fd12:3456:789a:1::1 port 64472 ssh2 [preauth]
+Apr 10 17:01:04 server1 sshd[1920]: error: maximum authentication attempts exceeded for invalid user ubuntu from 185.220.101.1 port 52816 ssh2 [preauth]
+Apr 10 17:01:31 server1 sshd[1921]: Invalid user oracle from 192.168.1.10 port 55819
+Apr 10 17:01:41 server1 sshd[1922]: Invalid user mysql from 203.0.113.45 port 63925
+Apr 10 17:02:07 server1 sshd[1923]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80::1ff:fe23:4567:890a user=analyst
+Apr 10 17:02:42 server1 sshd[1924]: Invalid user ubuntu from 203.0.113.45 port 54357
+Apr 10 17:03:06 server1 sshd[1925]: Received disconnect from 10.0.0.5 port 63290:11: Bye Bye [preauth]
+Apr 10 17:03:52 server1 sshd[1926]: Connection closed by authenticating user backup 203.0.113.45 port 62188 [preauth]
+Apr 10 17:04:32 server1 sshd[1927]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=8.8.8.8 user=student
+Apr 10 17:04:51 server1 sshd[1928]: Connection closed by authenticating user devops 2001:db8::99 port 53272 [preauth]
+Apr 10 17:05:36 server1 sshd[1929]: Received disconnect from 2001:db8:abcd:12::1 port 54160:11: Bye Bye [preauth]
+Apr 10 17:06:09 server1 sshd[1930]: Received disconnect from 2606:4700:4700::1111 port 54075:11: Bye Bye [preauth]
+Apr 10 17:06:27 server1 sshd[1931]: error: maximum authentication attempts exceeded for invalid user guest from 169.254.1.1 port 64652 ssh2 [preauth]
+Apr 10 17:07:23 server1 sshd[1932]: Invalid user qa from fc00::1234 port 46126
+Apr 10 17:07:57 server1 sshd[1933]: error: maximum authentication attempts exceeded for invalid user postgres from 203.0.113.45 port 48596 ssh2 [preauth]
+Apr 10 17:08:40 server1 sshd[1934]: error: maximum authentication attempts exceeded for invalid user deploy from 2001:db8::1 port 60031 ssh2 [preauth]
+Apr 10 17:09:07 server1 sshd[1935]: Connection closed by authenticating user secadmin 185.220.101.1 port 55003 [preauth]
+Apr 10 17:09:51 server1 sshd[1936]: Invalid user mysql from 2606:4700:4700::1111 port 42777
+Apr 10 17:10:11 server1 sshd[1937]: Invalid user backup from 45.67.89.101 port 43832
+Apr 10 17:10:48 server1 sshd[1938]: Connection closed by authenticating user secadmin 2001:db8::1 port 53704 [preauth]
+Apr 10 17:11:20 server1 sshd[1939]: error: maximum authentication attempts exceeded for invalid user devops from 8.8.8.8 port 55947 ssh2 [preauth]
+Apr 10 17:12:00 server1 sshd[1940]: Connection closed by authenticating user apache 8.8.8.8 port 56044 [preauth]
+Apr 10 17:12:25 server1 sshd[1941]: Received disconnect from fd00::50 port 54778:11: Bye Bye [preauth]
+Apr 10 17:12:30 server1 sshd[1942]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1 user=support
+Apr 10 17:13:01 server1 sshd[1943]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:db8:abcd:12::1 user=ftp
+Apr 10 17:13:16 server1 sshd[1944]: Connection closed by authenticating user root 172.16.0.12 port 58526 [preauth]
+Apr 10 17:13:23 server1 sshd[1945]: Invalid user student from 169.254.1.1 port 47367
+Apr 10 17:14:17 server1 sshd[1946]: error: maximum authentication attempts exceeded for invalid user postgres from fe80::1ff:fe23:4567:890a port 58535 ssh2 [preauth]
+Apr 10 17:14:58 server1 sshd[1947]: Invalid user student from 203.0.113.45 port 48778
+Apr 10 17:15:51 server1 sshd[1948]: Connection closed by authenticating user student 10.10.10.20 port 54462 [preauth]
+Apr 10 17:16:02 server1 sshd[1949]: Invalid user test from 10.10.10.20 port 61419
+Apr 10 17:16:35 server1 sshd[1950]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=169.254.1.1 user=guest
+Apr 10 17:17:29 server1 sshd[1951]: error: maximum authentication attempts exceeded for invalid user support from 2001:db8::99 port 47764 ssh2 [preauth]
+Apr 10 17:18:29 server1 sshd[1952]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50 user=devops
+Apr 10 17:19:13 server1 sshd[1953]: Received disconnect from 198.51.100.22 port 46770:11: Bye Bye [preauth]
+Apr 10 17:19:52 server1 sshd[1954]: Connection closed by authenticating user student 169.254.1.1 port 59557 [preauth]
+Apr 10 17:20:42 server1 sshd[1955]: Invalid user opsuser from 45.67.89.101 port 49480
+Apr 10 17:20:55 server1 sshd[1956]: Invalid user admin from 172.20.5.9 port 53487
+Apr 10 17:21:44 server1 sshd[1957]: Invalid user mysql from 198.51.100.22 port 48181
+Apr 10 17:22:37 server1 sshd[1958]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=fd00::50 user=deploy
+Apr 10 17:23:18 server1 sshd[1959]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::ffff:192.0.2.128 user=devops
+Apr 10 17:23:51 server1 sshd[1960]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.0.12 user=guest
+Apr 10 17:24:40 server1 sshd[1961]: Invalid user postgres from 185.220.101.1 port 54899
+Apr 10 17:25:40 server1 sshd[1962]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.20.5.9 user=guest
+Apr 10 17:26:39 server1 sshd[1963]: Connection closed by authenticating user deploy 172.16.0.12 port 57512 [preauth]
+Apr 10 17:27:36 server1 sshd[1964]: Invalid user web from 192.0.2.15 port 56210
+Apr 10 17:28:02 server1 sshd[1965]: error: maximum authentication attempts exceeded for invalid user mysql from fc00::1234 port 58937 ssh2 [preauth]
+Apr 10 17:28:57 server1 sshd[1966]: Received disconnect from 91.198.174.192 port 62365:11: Bye Bye [preauth]
+Apr 10 17:29:42 server1 sshd[1967]: Received disconnect from 2001:db8::99 port 55059:11: Bye Bye [preauth]
+Apr 10 17:30:15 server1 sshd[1968]: Connection closed by authenticating user ftp fe80::1ff:fe23:4567:890a port 40022 [preauth]
+Apr 10 17:31:01 server1 sshd[1969]: Received disconnect from 45.67.89.101 port 45209:11: Bye Bye [preauth]
+Apr 10 17:31:22 server1 sshd[1970]: Connection closed by authenticating user devops 172.16.0.12 port 52184 [preauth]
+Apr 10 17:31:52 server1 sshd[1971]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=::ffff:192.0.2.128 user=test
+Apr 10 17:32:42 server1 sshd[1972]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45 user=support
+Apr 10 17:32:55 server1 sshd[1973]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2606:4700:4700::1111 user=analyst
+Apr 10 17:33:00 server1 sshd[1974]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50 user=oracle
+Apr 10 17:33:35 server1 sshd[1975]: Received disconnect from 172.16.0.12 port 47502:11: Bye Bye [preauth]
+Apr 10 17:33:46 server1 sshd[1976]: Connection closed by authenticating user apache 91.198.174.192 port 52044 [preauth]
+Apr 10 17:34:40 server1 sshd[1977]: Connection closed by authenticating user mysql fd00::50 port 64679 [preauth]
+Apr 10 17:35:18 server1 sshd[1978]: Connection closed by authenticating user secadmin 2606:4700:4700::1111 port 40277 [preauth]
+Apr 10 17:35:45 server1 sshd[1979]: Connection closed by authenticating user devops 10.10.10.20 port 46981 [preauth]
+Apr 10 17:36:29 server1 sshd[1980]: Received disconnect from 2001:db8:abcd:12::1 port 54496:11: Bye Bye [preauth]
+Apr 10 17:36:42 server1 sshd[1981]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.20.5.9 user=opsuser
+Apr 10 17:37:14 server1 sshd[1982]: Invalid user test from 91.198.174.192 port 44581
+Apr 10 17:37:34 server1 sshd[1983]: error: maximum authentication attempts exceeded for invalid user secadmin from fc00::1234 port 59693 ssh2 [preauth]
+Apr 10 17:38:28 server1 sshd[1984]: Connection closed by authenticating user apache 192.168.1.50 port 40878 [preauth]
+Apr 10 17:39:20 server1 sshd[1985]: Received disconnect from 2001:db8::1 port 49684:11: Bye Bye [preauth]
+Apr 10 17:39:56 server1 sshd[1986]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=2001:db8::1 user=test
+Apr 10 17:40:34 server1 sshd[1987]: Connection closed by authenticating user dev 192.168.1.10 port 51832 [preauth]
+Apr 10 17:41:34 server1 sshd[1988]: Invalid user ftp from fd00::50 port 58624
+Apr 10 17:42:27 server1 sshd[1989]: error: maximum authentication attempts exceeded for invalid user root from ::1 port 42391 ssh2 [preauth]
+Apr 10 17:42:32 server1 sshd[1990]: Received disconnect from 169.254.1.1 port 47069:11: Bye Bye [preauth]
+Apr 10 17:43:09 server1 sshd[1991]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=45.67.89.101 user=analyst
+Apr 10 17:43:58 server1 sshd[1992]: error: maximum authentication attempts exceeded for invalid user devops from 2001:db8::1 port 42700 ssh2 [preauth]
+Apr 10 17:44:20 server1 sshd[1993]: error: maximum authentication attempts exceeded for invalid user guest from 172.16.0.12 port 50155 ssh2 [preauth]
+Apr 10 17:45:16 server1 sshd[1994]: PAM 1 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.51.100.22 user=dev
+Apr 10 17:45:40 server1 sshd[1995]: Received disconnect from 192.168.1.50 port 54335:11: Bye Bye [preauth]
+Apr 10 17:45:50 server1 sshd[1996]: error: maximum authentication attempts exceeded for invalid user ubuntu from 2001:db8:85a3::8a2e:370:7334 port 43800 ssh2 [preauth]
+Apr 10 17:46:14 server1 sshd[1997]: Received disconnect from 2001:db8:abcd:12::1 port 64303:11: Bye Bye [preauth]
+Apr 10 17:47:04 server1 sshd[1998]: Connection closed by authenticating user root 198.51.100.22 port 62986 [preauth]
+Apr 10 17:47:31 server1 sshd[1999]: Connection closed by authenticating user web fd12:3456:789a:1::1 port 56948 [preauth]

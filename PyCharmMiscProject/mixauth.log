@@ -1,0 +1,80 @@
+Apr 10 08:15:01 server1 sshd[1024]: Failed password for invalid user admin from 192.168.1.10 port 54321 ssh2
+Apr 10 08:15:10 server1 sshd[1025]: Failed password for root from 192.168.1.10 port 54322 ssh2
+Apr 10 08:15:25 server1 sshd[1026]: Failed password for invalid user test from 192.168.1.10 port 54323 ssh2
+Apr 10 08:15:40 server1 sshd[1027]: Failed password for root from 192.168.1.10 port 54324 ssh2
+Apr 10 08:15:55 server1 sshd[1028]: Failed password for invalid user guest from 192.168.1.10 port 54325 ssh2
+
+Apr 10 08:16:10 server1 sshd[1029]: Failed password for root from 10.0.0.5 port 54400 ssh2
+Apr 10 08:16:20 server1 sshd[1030]: Failed password for invalid user backup from 10.0.0.5 port 54401 ssh2
+Apr 10 08:16:35 server1 sshd[1031]: Failed password for root from 10.0.0.5 port 54402 ssh2
+
+Apr 10 08:17:05 server1 sshd[1032]: Failed password for invalid user oracle from 172.16.0.12 port 54404 ssh2
+Apr 10 08:17:15 server1 sshd[1033]: Failed password for root from 172.16.0.12 port 54405 ssh2
+Apr 10 08:17:30 server1 sshd[1034]: Failed password for invalid user admin from 172.16.0.12 port 54406 ssh2
+
+Apr 10 08:17:45 server1 sshd[1035]: Failed password for root from 172.31.255.254 port 54407 ssh2
+Apr 10 08:18:00 server1 sshd[1036]: Failed password for invalid user mysql from 172.31.255.254 port 54408 ssh2
+
+Apr 10 08:18:12 server1 sshd[1037]: Failed password for root from 8.8.8.8 port 54409 ssh2
+Apr 10 08:18:25 server1 sshd[1038]: Failed password for invalid user support from 8.8.8.8 port 54410 ssh2
+
+Apr 10 08:18:40 server1 sshd[1039]: Failed password for invalid user deploy from 203.0.113.45 port 54411 ssh2
+Apr 10 08:18:55 server1 sshd[1040]: Failed password for root from 198.51.100.22 port 54412 ssh2
+Apr 10 08:19:10 server1 sshd[1041]: Failed password for invalid user user1 from 127.0.0.1 port 54413 ssh2
+
+Apr 10 08:19:25 server1 sshd[1042]: Failed password for root from 255.255.255.255 port 54414 ssh2
+Apr 10 08:19:40 server1 sshd[1043]: Failed password for invalid user ftp from 0.0.0.0 port 54415 ssh2
+
+Apr 10 08:20:00 server1 sshd[1044]: Failed password for root from 2001:0db8:85a3:0000:0000:8a2e:0370:7334 port 54416 ssh2
+Apr 10 08:20:15 server1 sshd[1045]: Failed password for invalid user admin from 2001:0db8:85a3:0000:0000:8a2e:0370:7334 port 54417 ssh2
+Apr 10 08:20:30 server1 sshd[1046]: Failed password for root from 2001:0db8:85a3:0000:0000:8a2e:0370:7334 port 54418 ssh2
+
+Apr 10 08:20:45 server1 sshd[1047]: Failed password for invalid user test from 2001:db8:85a3::8a2e:370:7334 port 54419 ssh2
+Apr 10 08:21:00 server1 sshd[1048]: Failed password for root from 2001:db8:85a3::8a2e:370:7334 port 54420 ssh2
+Apr 10 08:21:15 server1 sshd[1049]: Failed password for invalid user guest from 2001:db8:85a3::8a2e:370:7334 port 54421 ssh2
+
+Apr 10 08:21:30 server1 sshd[1050]: Failed password for root from fe80::1ff:fe23:4567:890a port 54422 ssh2
+Apr 10 08:21:45 server1 sshd[1051]: Failed password for invalid user support from fe80::1ff:fe23:4567:890a port 54423 ssh2
+Apr 10 08:22:00 server1 sshd[1052]: Failed password for invalid user backup from fe80::1ff:fe23:4567:890a port 54424 ssh2
+
+Apr 10 08:22:15 server1 sshd[1053]: Failed password for root from ::1 port 54425 ssh2
+Apr 10 08:22:30 server1 sshd[1054]: Failed password for invalid user admin from ::1 port 54426 ssh2
+
+Apr 10 08:22:45 server1 sshd[1055]: Failed password for root from 2001:db8::1 port 54427 ssh2
+Apr 10 08:23:00 server1 sshd[1056]: Failed password for invalid user web from 2001:db8::1 port 54428 ssh2
+
+Apr 10 08:23:15 server1 sshd[1057]: Failed password for root from 2001:db8::2:1 port 54429 ssh2
+Apr 10 08:23:30 server1 sshd[1058]: Failed password for invalid user deploy from 2001:db8::2:1 port 54430 ssh2
+
+Apr 10 08:23:45 server1 sshd[1059]: Failed password for root from fd12:3456:789a:1::1 port 54431 ssh2
+Apr 10 08:24:00 server1 sshd[1060]: Failed password for invalid user rootkit from fd12:3456:789a:1::1 port 54432 ssh2
+
+Apr 10 08:24:15 server1 sshd[1061]: Failed password for invalid user dbadmin from fc00::1234 port 54433 ssh2
+Apr 10 08:24:30 server1 sshd[1062]: Failed password for root from fc00::1234 port 54434 ssh2
+
+Apr 10 08:24:45 server1 sshd[1063]: Failed password for invalid user mail from 2001:4860:4860::8888 port 54435 ssh2
+Apr 10 08:25:00 server1 sshd[1064]: Failed password for root from 2001:4860:4860::8888 port 54436 ssh2
+
+Apr 10 08:25:15 server1 sshd[1065]: Failed password for invalid user apache from 2606:4700:4700::1111 port 54437 ssh2
+Apr 10 08:25:30 server1 sshd[1066]: Failed password for root from 2606:4700:4700::1111 port 54438 ssh2
+
+Apr 10 08:25:45 server1 sshd[1067]: Failed password for invalid user dev from 2001:db8:0:0:0:0:2:1 port 54439 ssh2
+Apr 10 08:26:00 server1 sshd[1068]: Failed password for root from 2001:db8:0:0:0:0:2:1 port 54440 ssh2
+
+Apr 10 08:26:15 server1 sshd[1069]: Failed password for invalid user qa from ::ffff:192.0.2.128 port 54441 ssh2
+Apr 10 08:26:30 server1 sshd[1070]: Failed password for root from ::ffff:192.0.2.128 port 54442 ssh2
+
+Apr 10 08:26:45 server1 sshd[1071]: Failed password for invalid user docker from 2001:db8:abcd:0012::0 port 54443 ssh2
+Apr 10 08:27:00 server1 sshd[1072]: Failed password for root from 2001:db8:abcd:0012::0 port 54444 ssh2
+
+Apr 10 08:27:15 server1 sshd[1073]: Failed password for invalid user user2 from 192.0.2.15 port 54445 ssh2
+Apr 10 08:27:30 server1 sshd[1074]: Failed password for root from 192.0.2.15 port 54446 ssh2
+
+Apr 10 08:27:45 server1 sshd[1075]: Failed password for invalid user user3 from 198.18.0.1 port 54447 ssh2
+Apr 10 08:28:00 server1 sshd[1076]: Failed password for root from 198.18.0.1 port 54448 ssh2
+
+Apr 10 08:28:15 server1 sshd[1077]: Failed password for invalid user user4 from 169.254.1.1 port 54449 ssh2
+Apr 10 08:28:30 server1 sshd[1078]: Failed password for root from 169.254.1.1 port 54450 ssh2
+
+Apr 10 08:28:45 server1 sshd[1079]: Accepted password for student from 192.168.1.50 port 54451 ssh2
+Apr 10 08:29:00 server1 sshd[1080]: Accepted password for analyst from 2001:db8::99 port 54452 ssh2
